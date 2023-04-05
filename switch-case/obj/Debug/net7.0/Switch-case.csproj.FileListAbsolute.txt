@@ -1,0 +1,15 @@
+C:\Users\kamil\OneDrive\Área de Trabalho\Switch-case\bin\Debug\net7.0\Switch-case.exe
+C:\Users\kamil\OneDrive\Área de Trabalho\Switch-case\bin\Debug\net7.0\Switch-case.deps.json
+C:\Users\kamil\OneDrive\Área de Trabalho\Switch-case\bin\Debug\net7.0\Switch-case.runtimeconfig.json
+C:\Users\kamil\OneDrive\Área de Trabalho\Switch-case\bin\Debug\net7.0\Switch-case.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\Switch-case\bin\Debug\net7.0\Switch-case.pdb
+C:\Users\kamil\OneDrive\Área de Trabalho\Switch-case\obj\Debug\net7.0\Switch-case.csproj.AssemblyReference.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\Switch-case\obj\Debug\net7.0\Switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\OneDrive\Área de Trabalho\Switch-case\obj\Debug\net7.0\Switch-case.AssemblyInfoInputs.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\Switch-case\obj\Debug\net7.0\Switch-case.AssemblyInfo.cs
+C:\Users\kamil\OneDrive\Área de Trabalho\Switch-case\obj\Debug\net7.0\Switch-case.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\Switch-case\obj\Debug\net7.0\Switch-case.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\Switch-case\obj\Debug\net7.0\refint\Switch-case.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\Switch-case\obj\Debug\net7.0\Switch-case.pdb
+C:\Users\kamil\OneDrive\Área de Trabalho\Switch-case\obj\Debug\net7.0\Switch-case.genruntimeconfig.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\Switch-case\obj\Debug\net7.0\ref\Switch-case.dll
