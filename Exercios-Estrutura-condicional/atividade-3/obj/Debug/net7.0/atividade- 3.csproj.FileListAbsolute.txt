@@ -1,0 +1,30 @@
+C:\Users\47766876825\Desktop\Backend1\Exercios-Estrutura-condicional\atividade- 3\bin\Debug\net7.0\atividade- 3.exe
+C:\Users\47766876825\Desktop\Backend1\Exercios-Estrutura-condicional\atividade- 3\bin\Debug\net7.0\atividade- 3.deps.json
+C:\Users\47766876825\Desktop\Backend1\Exercios-Estrutura-condicional\atividade- 3\bin\Debug\net7.0\atividade- 3.runtimeconfig.json
+C:\Users\47766876825\Desktop\Backend1\Exercios-Estrutura-condicional\atividade- 3\bin\Debug\net7.0\atividade- 3.dll
+C:\Users\47766876825\Desktop\Backend1\Exercios-Estrutura-condicional\atividade- 3\bin\Debug\net7.0\atividade- 3.pdb
+C:\Users\47766876825\Desktop\Backend1\Exercios-Estrutura-condicional\atividade- 3\obj\Debug\net7.0\atividade- 3.csproj.AssemblyReference.cache
+C:\Users\47766876825\Desktop\Backend1\Exercios-Estrutura-condicional\atividade- 3\obj\Debug\net7.0\atividade- 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47766876825\Desktop\Backend1\Exercios-Estrutura-condicional\atividade- 3\obj\Debug\net7.0\atividade- 3.AssemblyInfoInputs.cache
+C:\Users\47766876825\Desktop\Backend1\Exercios-Estrutura-condicional\atividade- 3\obj\Debug\net7.0\atividade- 3.AssemblyInfo.cs
+C:\Users\47766876825\Desktop\Backend1\Exercios-Estrutura-condicional\atividade- 3\obj\Debug\net7.0\atividade- 3.csproj.CoreCompileInputs.cache
+C:\Users\47766876825\Desktop\Backend1\Exercios-Estrutura-condicional\atividade- 3\obj\Debug\net7.0\atividade- 3.dll
+C:\Users\47766876825\Desktop\Backend1\Exercios-Estrutura-condicional\atividade- 3\obj\Debug\net7.0\refint\atividade- 3.dll
+C:\Users\47766876825\Desktop\Backend1\Exercios-Estrutura-condicional\atividade- 3\obj\Debug\net7.0\atividade- 3.pdb
+C:\Users\47766876825\Desktop\Backend1\Exercios-Estrutura-condicional\atividade- 3\obj\Debug\net7.0\atividade- 3.genruntimeconfig.cache
+C:\Users\47766876825\Desktop\Backend1\Exercios-Estrutura-condicional\atividade- 3\obj\Debug\net7.0\ref\atividade- 3.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\Atividades_Estrutura_condicional\Exercios-Estrutura-condicional\atividade- 3\bin\Debug\net7.0\atividade- 3.exe
+C:\Users\kamil\OneDrive\Área de Trabalho\Atividades_Estrutura_condicional\Exercios-Estrutura-condicional\atividade- 3\bin\Debug\net7.0\atividade- 3.deps.json
+C:\Users\kamil\OneDrive\Área de Trabalho\Atividades_Estrutura_condicional\Exercios-Estrutura-condicional\atividade- 3\bin\Debug\net7.0\atividade- 3.runtimeconfig.json
+C:\Users\kamil\OneDrive\Área de Trabalho\Atividades_Estrutura_condicional\Exercios-Estrutura-condicional\atividade- 3\bin\Debug\net7.0\atividade- 3.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\Atividades_Estrutura_condicional\Exercios-Estrutura-condicional\atividade- 3\bin\Debug\net7.0\atividade- 3.pdb
+C:\Users\kamil\OneDrive\Área de Trabalho\Atividades_Estrutura_condicional\Exercios-Estrutura-condicional\atividade- 3\obj\Debug\net7.0\atividade- 3.csproj.AssemblyReference.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\Atividades_Estrutura_condicional\Exercios-Estrutura-condicional\atividade- 3\obj\Debug\net7.0\atividade- 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\OneDrive\Área de Trabalho\Atividades_Estrutura_condicional\Exercios-Estrutura-condicional\atividade- 3\obj\Debug\net7.0\atividade- 3.AssemblyInfoInputs.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\Atividades_Estrutura_condicional\Exercios-Estrutura-condicional\atividade- 3\obj\Debug\net7.0\atividade- 3.AssemblyInfo.cs
+C:\Users\kamil\OneDrive\Área de Trabalho\Atividades_Estrutura_condicional\Exercios-Estrutura-condicional\atividade- 3\obj\Debug\net7.0\atividade- 3.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\Atividades_Estrutura_condicional\Exercios-Estrutura-condicional\atividade- 3\obj\Debug\net7.0\atividade- 3.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\Atividades_Estrutura_condicional\Exercios-Estrutura-condicional\atividade- 3\obj\Debug\net7.0\refint\atividade- 3.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\Atividades_Estrutura_condicional\Exercios-Estrutura-condicional\atividade- 3\obj\Debug\net7.0\atividade- 3.pdb
+C:\Users\kamil\OneDrive\Área de Trabalho\Atividades_Estrutura_condicional\Exercios-Estrutura-condicional\atividade- 3\obj\Debug\net7.0\atividade- 3.genruntimeconfig.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\Atividades_Estrutura_condicional\Exercios-Estrutura-condicional\atividade- 3\obj\Debug\net7.0\ref\atividade- 3.dll
