@@ -1,0 +1,15 @@
+C:\Users\47766876825\Desktop\funcao- Switch\bin\Debug\net7.0\funcao- Switch.exe
+C:\Users\47766876825\Desktop\funcao- Switch\bin\Debug\net7.0\funcao- Switch.deps.json
+C:\Users\47766876825\Desktop\funcao- Switch\bin\Debug\net7.0\funcao- Switch.runtimeconfig.json
+C:\Users\47766876825\Desktop\funcao- Switch\bin\Debug\net7.0\funcao- Switch.dll
+C:\Users\47766876825\Desktop\funcao- Switch\bin\Debug\net7.0\funcao- Switch.pdb
+C:\Users\47766876825\Desktop\funcao- Switch\obj\Debug\net7.0\funcao- Switch.csproj.AssemblyReference.cache
+C:\Users\47766876825\Desktop\funcao- Switch\obj\Debug\net7.0\funcao- Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47766876825\Desktop\funcao- Switch\obj\Debug\net7.0\funcao- Switch.AssemblyInfoInputs.cache
+C:\Users\47766876825\Desktop\funcao- Switch\obj\Debug\net7.0\funcao- Switch.AssemblyInfo.cs
+C:\Users\47766876825\Desktop\funcao- Switch\obj\Debug\net7.0\funcao- Switch.csproj.CoreCompileInputs.cache
+C:\Users\47766876825\Desktop\funcao- Switch\obj\Debug\net7.0\funcao- Switch.dll
+C:\Users\47766876825\Desktop\funcao- Switch\obj\Debug\net7.0\refint\funcao- Switch.dll
+C:\Users\47766876825\Desktop\funcao- Switch\obj\Debug\net7.0\funcao- Switch.pdb
+C:\Users\47766876825\Desktop\funcao- Switch\obj\Debug\net7.0\funcao- Switch.genruntimeconfig.cache
+C:\Users\47766876825\Desktop\funcao- Switch\obj\Debug\net7.0\ref\funcao- Switch.dll

@@ -1,0 +1,15 @@
+C:\Users\47766876825\Desktop\extra\bin\Debug\net7.0\extra.exe
+C:\Users\47766876825\Desktop\extra\bin\Debug\net7.0\extra.deps.json
+C:\Users\47766876825\Desktop\extra\bin\Debug\net7.0\extra.runtimeconfig.json
+C:\Users\47766876825\Desktop\extra\bin\Debug\net7.0\extra.dll
+C:\Users\47766876825\Desktop\extra\bin\Debug\net7.0\extra.pdb
+C:\Users\47766876825\Desktop\extra\obj\Debug\net7.0\extra.csproj.AssemblyReference.cache
+C:\Users\47766876825\Desktop\extra\obj\Debug\net7.0\extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47766876825\Desktop\extra\obj\Debug\net7.0\extra.AssemblyInfoInputs.cache
+C:\Users\47766876825\Desktop\extra\obj\Debug\net7.0\extra.AssemblyInfo.cs
+C:\Users\47766876825\Desktop\extra\obj\Debug\net7.0\extra.csproj.CoreCompileInputs.cache
+C:\Users\47766876825\Desktop\extra\obj\Debug\net7.0\extra.dll
+C:\Users\47766876825\Desktop\extra\obj\Debug\net7.0\refint\extra.dll
+C:\Users\47766876825\Desktop\extra\obj\Debug\net7.0\extra.pdb
+C:\Users\47766876825\Desktop\extra\obj\Debug\net7.0\extra.genruntimeconfig.cache
+C:\Users\47766876825\Desktop\extra\obj\Debug\net7.0\ref\extra.dll
