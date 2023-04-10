@@ -1,0 +1,15 @@
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Exercios-Estrutura-condicional\Segunda-lista\5-vogal_e_consoante\bin\Debug\net7.0\5-vogal_e_consoante.exe
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Exercios-Estrutura-condicional\Segunda-lista\5-vogal_e_consoante\bin\Debug\net7.0\5-vogal_e_consoante.deps.json
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Exercios-Estrutura-condicional\Segunda-lista\5-vogal_e_consoante\bin\Debug\net7.0\5-vogal_e_consoante.runtimeconfig.json
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Exercios-Estrutura-condicional\Segunda-lista\5-vogal_e_consoante\bin\Debug\net7.0\5-vogal_e_consoante.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Exercios-Estrutura-condicional\Segunda-lista\5-vogal_e_consoante\bin\Debug\net7.0\5-vogal_e_consoante.pdb
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Exercios-Estrutura-condicional\Segunda-lista\5-vogal_e_consoante\obj\Debug\net7.0\5-vogal_e_consoante.csproj.AssemblyReference.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Exercios-Estrutura-condicional\Segunda-lista\5-vogal_e_consoante\obj\Debug\net7.0\5-vogal_e_consoante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Exercios-Estrutura-condicional\Segunda-lista\5-vogal_e_consoante\obj\Debug\net7.0\5-vogal_e_consoante.AssemblyInfoInputs.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Exercios-Estrutura-condicional\Segunda-lista\5-vogal_e_consoante\obj\Debug\net7.0\5-vogal_e_consoante.AssemblyInfo.cs
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Exercios-Estrutura-condicional\Segunda-lista\5-vogal_e_consoante\obj\Debug\net7.0\5-vogal_e_consoante.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Exercios-Estrutura-condicional\Segunda-lista\5-vogal_e_consoante\obj\Debug\net7.0\5-vogal_e_consoante.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Exercios-Estrutura-condicional\Segunda-lista\5-vogal_e_consoante\obj\Debug\net7.0\refint\5-vogal_e_consoante.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Exercios-Estrutura-condicional\Segunda-lista\5-vogal_e_consoante\obj\Debug\net7.0\5-vogal_e_consoante.pdb
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Exercios-Estrutura-condicional\Segunda-lista\5-vogal_e_consoante\obj\Debug\net7.0\5-vogal_e_consoante.genruntimeconfig.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Exercios-Estrutura-condicional\Segunda-lista\5-vogal_e_consoante\obj\Debug\net7.0\ref\5-vogal_e_consoante.dll

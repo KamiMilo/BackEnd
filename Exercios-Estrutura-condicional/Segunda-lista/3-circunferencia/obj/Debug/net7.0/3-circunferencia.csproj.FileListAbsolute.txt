@@ -1,0 +1,15 @@
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Segunda-lista\3-circunferencia\bin\Debug\net7.0\3-circunferencia.exe
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Segunda-lista\3-circunferencia\bin\Debug\net7.0\3-circunferencia.deps.json
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Segunda-lista\3-circunferencia\bin\Debug\net7.0\3-circunferencia.runtimeconfig.json
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Segunda-lista\3-circunferencia\bin\Debug\net7.0\3-circunferencia.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Segunda-lista\3-circunferencia\bin\Debug\net7.0\3-circunferencia.pdb
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Segunda-lista\3-circunferencia\obj\Debug\net7.0\3-circunferencia.csproj.AssemblyReference.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Segunda-lista\3-circunferencia\obj\Debug\net7.0\3-circunferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Segunda-lista\3-circunferencia\obj\Debug\net7.0\3-circunferencia.AssemblyInfoInputs.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Segunda-lista\3-circunferencia\obj\Debug\net7.0\3-circunferencia.AssemblyInfo.cs
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Segunda-lista\3-circunferencia\obj\Debug\net7.0\3-circunferencia.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Segunda-lista\3-circunferencia\obj\Debug\net7.0\3-circunferencia.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Segunda-lista\3-circunferencia\obj\Debug\net7.0\refint\3-circunferencia.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Segunda-lista\3-circunferencia\obj\Debug\net7.0\3-circunferencia.pdb
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Segunda-lista\3-circunferencia\obj\Debug\net7.0\3-circunferencia.genruntimeconfig.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Segunda-lista\3-circunferencia\obj\Debug\net7.0\ref\3-circunferencia.dll

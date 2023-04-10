@@ -1,0 +1,15 @@
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\6- tabuada\bin\Debug\net7.0\6- tabuada.exe
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\6- tabuada\bin\Debug\net7.0\6- tabuada.deps.json
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\6- tabuada\bin\Debug\net7.0\6- tabuada.runtimeconfig.json
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\6- tabuada\bin\Debug\net7.0\6- tabuada.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\6- tabuada\bin\Debug\net7.0\6- tabuada.pdb
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\6- tabuada\obj\Debug\net7.0\6- tabuada.csproj.AssemblyReference.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\6- tabuada\obj\Debug\net7.0\6- tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\6- tabuada\obj\Debug\net7.0\6- tabuada.AssemblyInfoInputs.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\6- tabuada\obj\Debug\net7.0\6- tabuada.AssemblyInfo.cs
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\6- tabuada\obj\Debug\net7.0\6- tabuada.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\6- tabuada\obj\Debug\net7.0\6- tabuada.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\6- tabuada\obj\Debug\net7.0\refint\6- tabuada.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\6- tabuada\obj\Debug\net7.0\6- tabuada.pdb
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\6- tabuada\obj\Debug\net7.0\6- tabuada.genruntimeconfig.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\6- tabuada\obj\Debug\net7.0\ref\6- tabuada.dll

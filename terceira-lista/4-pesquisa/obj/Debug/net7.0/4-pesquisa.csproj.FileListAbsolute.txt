@@ -1,0 +1,15 @@
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\4-pesquisa\bin\Debug\net7.0\4-pesquisa.exe
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\4-pesquisa\bin\Debug\net7.0\4-pesquisa.deps.json
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\4-pesquisa\bin\Debug\net7.0\4-pesquisa.runtimeconfig.json
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\4-pesquisa\bin\Debug\net7.0\4-pesquisa.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\4-pesquisa\bin\Debug\net7.0\4-pesquisa.pdb
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\4-pesquisa\obj\Debug\net7.0\4-pesquisa.csproj.AssemblyReference.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\4-pesquisa\obj\Debug\net7.0\4-pesquisa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\4-pesquisa\obj\Debug\net7.0\4-pesquisa.AssemblyInfoInputs.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\4-pesquisa\obj\Debug\net7.0\4-pesquisa.AssemblyInfo.cs
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\4-pesquisa\obj\Debug\net7.0\4-pesquisa.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\4-pesquisa\obj\Debug\net7.0\4-pesquisa.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\4-pesquisa\obj\Debug\net7.0\refint\4-pesquisa.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\4-pesquisa\obj\Debug\net7.0\4-pesquisa.pdb
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\4-pesquisa\obj\Debug\net7.0\4-pesquisa.genruntimeconfig.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\4-pesquisa\obj\Debug\net7.0\ref\4-pesquisa.dll
