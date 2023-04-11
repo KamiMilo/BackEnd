@@ -1,25 +1,25 @@
 ﻿//entrada
 
-string f = "mulheres";
-string m ="Homens";
+string f = "";
+string m ="";
 int totalSim =0;
 int totalNao=0;
 int totalh = 0;
 int totalm = 0;
 double porcentagemH= 0;
 
-for (var i = 1; i<= 10; i++)
+for (var i = 1; i<= 4; i++)
 {
 Console.WriteLine(@$"
 {i}-Digite o seu sexo:
-com (F) para feminino e (M) para masulino");
+com (F) para feminino e (M) para masculino");
 string sexo = Console.ReadLine();
 Console.WriteLine(@$"
 Você esta satisfeito com nosso produto?
 Responda com (Sim)  ou (Não).");
- string avaliacao = Console.ReadLine();   
+string avaliacao = Console.ReadLine();   
 Console.WriteLine($"_____________________________________");
-
+  //processamento
     if(avaliacao == "sim")
     { totalSim++;
     }
@@ -46,7 +46,7 @@ Console.WriteLine($"_____________________________________");
       porcentagemH= 100 * 10 / porcentagemH;
     }
 }
-
+//saida
 Console.WriteLine (@$"
 Total de Sim: {totalSim}
 total de não: {totalNao} 

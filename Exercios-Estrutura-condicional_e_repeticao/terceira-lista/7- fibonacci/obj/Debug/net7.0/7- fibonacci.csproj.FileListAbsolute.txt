@@ -1,0 +1,15 @@
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\7- fibonacci\bin\Debug\net7.0\7- fibonacci.exe
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\7- fibonacci\bin\Debug\net7.0\7- fibonacci.deps.json
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\7- fibonacci\bin\Debug\net7.0\7- fibonacci.runtimeconfig.json
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\7- fibonacci\bin\Debug\net7.0\7- fibonacci.dll
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\7- fibonacci\bin\Debug\net7.0\7- fibonacci.pdb
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\7- fibonacci\obj\Debug\net7.0\7- fibonacci.csproj.AssemblyReference.cache
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\7- fibonacci\obj\Debug\net7.0\7- fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\7- fibonacci\obj\Debug\net7.0\7- fibonacci.AssemblyInfoInputs.cache
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\7- fibonacci\obj\Debug\net7.0\7- fibonacci.AssemblyInfo.cs
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\7- fibonacci\obj\Debug\net7.0\7- fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\7- fibonacci\obj\Debug\net7.0\7- fibonacci.dll
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\7- fibonacci\obj\Debug\net7.0\refint\7- fibonacci.dll
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\7- fibonacci\obj\Debug\net7.0\7- fibonacci.pdb
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\7- fibonacci\obj\Debug\net7.0\7- fibonacci.genruntimeconfig.cache
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\7- fibonacci\obj\Debug\net7.0\ref\7- fibonacci.dll

@@ -1,0 +1,15 @@
+C:\Users\47766876825\Desktop\BackEnd\array-e-foreach\bin\Debug\net7.0\array-e-foreach.exe
+C:\Users\47766876825\Desktop\BackEnd\array-e-foreach\bin\Debug\net7.0\array-e-foreach.deps.json
+C:\Users\47766876825\Desktop\BackEnd\array-e-foreach\bin\Debug\net7.0\array-e-foreach.runtimeconfig.json
+C:\Users\47766876825\Desktop\BackEnd\array-e-foreach\bin\Debug\net7.0\array-e-foreach.dll
+C:\Users\47766876825\Desktop\BackEnd\array-e-foreach\bin\Debug\net7.0\array-e-foreach.pdb
+C:\Users\47766876825\Desktop\BackEnd\array-e-foreach\obj\Debug\net7.0\array-e-foreach.csproj.AssemblyReference.cache
+C:\Users\47766876825\Desktop\BackEnd\array-e-foreach\obj\Debug\net7.0\array-e-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47766876825\Desktop\BackEnd\array-e-foreach\obj\Debug\net7.0\array-e-foreach.AssemblyInfoInputs.cache
+C:\Users\47766876825\Desktop\BackEnd\array-e-foreach\obj\Debug\net7.0\array-e-foreach.AssemblyInfo.cs
+C:\Users\47766876825\Desktop\BackEnd\array-e-foreach\obj\Debug\net7.0\array-e-foreach.csproj.CoreCompileInputs.cache
+C:\Users\47766876825\Desktop\BackEnd\array-e-foreach\obj\Debug\net7.0\array-e-foreach.dll
+C:\Users\47766876825\Desktop\BackEnd\array-e-foreach\obj\Debug\net7.0\refint\array-e-foreach.dll
+C:\Users\47766876825\Desktop\BackEnd\array-e-foreach\obj\Debug\net7.0\array-e-foreach.pdb
+C:\Users\47766876825\Desktop\BackEnd\array-e-foreach\obj\Debug\net7.0\array-e-foreach.genruntimeconfig.cache
+C:\Users\47766876825\Desktop\BackEnd\array-e-foreach\obj\Debug\net7.0\ref\array-e-foreach.dll

@@ -13,3 +13,18 @@ C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\4-pesquisa\obj\
 C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\4-pesquisa\obj\Debug\net7.0\4-pesquisa.pdb
 C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\4-pesquisa\obj\Debug\net7.0\4-pesquisa.genruntimeconfig.cache
 C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\4-pesquisa\obj\Debug\net7.0\ref\4-pesquisa.dll
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\4-pesquisa\bin\Debug\net7.0\4-pesquisa.exe
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\4-pesquisa\bin\Debug\net7.0\4-pesquisa.deps.json
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\4-pesquisa\bin\Debug\net7.0\4-pesquisa.runtimeconfig.json
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\4-pesquisa\bin\Debug\net7.0\4-pesquisa.dll
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\4-pesquisa\bin\Debug\net7.0\4-pesquisa.pdb
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\4-pesquisa\obj\Debug\net7.0\4-pesquisa.csproj.AssemblyReference.cache
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\4-pesquisa\obj\Debug\net7.0\4-pesquisa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\4-pesquisa\obj\Debug\net7.0\4-pesquisa.AssemblyInfoInputs.cache
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\4-pesquisa\obj\Debug\net7.0\4-pesquisa.AssemblyInfo.cs
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\4-pesquisa\obj\Debug\net7.0\4-pesquisa.csproj.CoreCompileInputs.cache
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\4-pesquisa\obj\Debug\net7.0\4-pesquisa.dll
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\4-pesquisa\obj\Debug\net7.0\refint\4-pesquisa.dll
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\4-pesquisa\obj\Debug\net7.0\4-pesquisa.pdb
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\4-pesquisa\obj\Debug\net7.0\4-pesquisa.genruntimeconfig.cache
+C:\Users\47766876825\Desktop\BackEnd\Exercios-Estrutura-condicional_e_repeticao\terceira-lista\4-pesquisa\obj\Debug\net7.0\ref\4-pesquisa.dll
