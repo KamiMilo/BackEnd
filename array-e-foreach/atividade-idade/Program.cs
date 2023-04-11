@@ -7,16 +7,26 @@
 string[] nomes=new string[5];
 int [] idade= new int [5];
 
-for (int i = 0; i < 5; i++)
+for (var i = 0; i < 5; i++)
 {
-    Console.WriteLine($"Digite um nome");
-    nomes[i]= Console.ReadLine();
-    
-    Console.WriteLine($"Digite uma idade");
-    idade[i]= int.Parse (Console.ReadLine());       
+Console.ForegroundColor= ConsoleColor.DarkBlue;
+Console.WriteLine(@$"{i}-Digite um nome");
+Console.ForegroundColor= ConsoleColor.White;
+nomes[i]= Console.ReadLine();
+
+Console.ForegroundColor= ConsoleColor.DarkBlue;
+Console.WriteLine(@$"Digite uma idade");
+Console.ForegroundColor= ConsoleColor.White;
+idade[i]= int.Parse (Console.ReadLine());       
+        
 }
 
-foreach (var item in nomes)
-{
-    
-}
+    for (var i = 0; i <5; i++)
+    {
+        Console.ForegroundColor=ConsoleColor.Red;
+        Console.WriteLine("nome:" +nomes[i]);
+        Console.WriteLine($"_________________");
+        Console.ForegroundColor=ConsoleColor.Green;
+        Console.WriteLine("idade:" + idade[i]);
+        
+    }
