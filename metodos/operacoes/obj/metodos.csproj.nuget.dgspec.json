@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\47766876825\\Desktop\\BackEnd\\array-e-foreach\\atividade-idade\\atividade-idade.csproj": {}
+    "C:\\Users\\47766876825\\Desktop\\BackEnd\\metodos\\metodos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\47766876825\\Desktop\\BackEnd\\array-e-foreach\\atividade-idade\\atividade-idade.csproj": {
+    "C:\\Users\\47766876825\\Desktop\\BackEnd\\metodos\\metodos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\47766876825\\Desktop\\BackEnd\\array-e-foreach\\atividade-idade\\atividade-idade.csproj",
-        "projectName": "atividade-idade",
-        "projectPath": "C:\\Users\\47766876825\\Desktop\\BackEnd\\array-e-foreach\\atividade-idade\\atividade-idade.csproj",
+        "projectUniqueName": "C:\\Users\\47766876825\\Desktop\\BackEnd\\metodos\\metodos.csproj",
+        "projectName": "metodos",
+        "projectPath": "C:\\Users\\47766876825\\Desktop\\BackEnd\\metodos\\metodos.csproj",
         "packagesPath": "C:\\Users\\47766876825\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\47766876825\\Desktop\\BackEnd\\array-e-foreach\\atividade-idade\\obj\\",
+        "outputPath": "C:\\Users\\47766876825\\Desktop\\BackEnd\\metodos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\47766876825\\AppData\\Roaming\\NuGet\\NuGet.Config",

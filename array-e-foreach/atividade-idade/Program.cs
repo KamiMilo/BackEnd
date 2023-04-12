@@ -9,24 +9,23 @@ int [] idade= new int [5];
 
 for (var i = 0; i < 5; i++)
 {
-Console.ForegroundColor= ConsoleColor.DarkBlue;
-Console.WriteLine(@$"{i}-Digite um nome");
-Console.ForegroundColor= ConsoleColor.White;
+Console.WriteLine(@$"Digite o {i + 1}º nome");
 nomes[i]= Console.ReadLine();
 
-Console.ForegroundColor= ConsoleColor.DarkBlue;
-Console.WriteLine(@$"Digite uma idade");
-Console.ForegroundColor= ConsoleColor.White;
+Console.WriteLine(@$"Digite a idade");
 idade[i]= int.Parse (Console.ReadLine());       
         
 }
 
     for (var i = 0; i <5; i++)
     {
-        Console.ForegroundColor=ConsoleColor.Red;
-        Console.WriteLine("nome:" +nomes[i]);
-        Console.WriteLine($"_________________");
+        Console.ForegroundColor=ConsoleColor.DarkBlue;
+        Console.WriteLine($"{i + 1})nome: {nomes[i]}");
+
         Console.ForegroundColor=ConsoleColor.Green;
-        Console.WriteLine("idade:" + idade[i]);
+        Console.WriteLine($"idade: {idade[i]} anos");
+        
+        Console.WriteLine($"");
+        Console.ResetColor();
         
     }
