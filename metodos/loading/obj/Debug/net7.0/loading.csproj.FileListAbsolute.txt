@@ -13,3 +13,18 @@ C:\Users\47766876825\Desktop\BackEnd\metodos\loading\obj\Debug\net7.0\refint\loa
 C:\Users\47766876825\Desktop\BackEnd\metodos\loading\obj\Debug\net7.0\loading.pdb
 C:\Users\47766876825\Desktop\BackEnd\metodos\loading\obj\Debug\net7.0\loading.genruntimeconfig.cache
 C:\Users\47766876825\Desktop\BackEnd\metodos\loading\obj\Debug\net7.0\ref\loading.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\metodos\loading\bin\Debug\net7.0\loading.exe
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\metodos\loading\bin\Debug\net7.0\loading.deps.json
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\metodos\loading\bin\Debug\net7.0\loading.runtimeconfig.json
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\metodos\loading\bin\Debug\net7.0\loading.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\metodos\loading\bin\Debug\net7.0\loading.pdb
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\metodos\loading\obj\Debug\net7.0\loading.csproj.AssemblyReference.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\metodos\loading\obj\Debug\net7.0\loading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\metodos\loading\obj\Debug\net7.0\loading.AssemblyInfoInputs.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\metodos\loading\obj\Debug\net7.0\loading.AssemblyInfo.cs
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\metodos\loading\obj\Debug\net7.0\loading.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\metodos\loading\obj\Debug\net7.0\loading.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\metodos\loading\obj\Debug\net7.0\refint\loading.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\metodos\loading\obj\Debug\net7.0\loading.pdb
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\metodos\loading\obj\Debug\net7.0\loading.genruntimeconfig.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\metodos\loading\obj\Debug\net7.0\ref\loading.dll

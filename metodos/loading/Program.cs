@@ -1,15 +1,20 @@
-﻿// Console.WriteLine($"Carregando..............");
-static void BarraCarregamento(string texto, int quantidadePontinhos, int tempo)
+﻿static void BarraCarregamento(string texto, int quantidadePontinhos, int tempo)
 {
+    Console.BackgroundColor = ConsoleColor.Red;
+    Console.Write(texto);
 
-for (var i = 0; i <quantidadePontinhos; i++)
-{
-    Console.WriteLine($".");
-    Thread.Sleep (tempo);
-    
-}
+    for (var i = 0; i < quantidadePontinhos; i++)
+    {
+        Console.Write($".");
+        Thread.Sleep(tempo);        
+    }  
+    Console.ResetColor();  
 }
 
-BarraCarregamento ("testando", 17,700);
+BarraCarregamento("Testando",15,700);
+
+BarraCarregamento("Finalizando",20,400);
+
+
 
 
