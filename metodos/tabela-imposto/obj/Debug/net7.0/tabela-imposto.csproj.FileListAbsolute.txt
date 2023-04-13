@@ -1,0 +1,15 @@
+C:\Users\47766876825\Desktop\BackEnd\metodos\tabela-imposto\bin\Debug\net7.0\tabela-imposto.exe
+C:\Users\47766876825\Desktop\BackEnd\metodos\tabela-imposto\bin\Debug\net7.0\tabela-imposto.deps.json
+C:\Users\47766876825\Desktop\BackEnd\metodos\tabela-imposto\bin\Debug\net7.0\tabela-imposto.runtimeconfig.json
+C:\Users\47766876825\Desktop\BackEnd\metodos\tabela-imposto\bin\Debug\net7.0\tabela-imposto.dll
+C:\Users\47766876825\Desktop\BackEnd\metodos\tabela-imposto\bin\Debug\net7.0\tabela-imposto.pdb
+C:\Users\47766876825\Desktop\BackEnd\metodos\tabela-imposto\obj\Debug\net7.0\tabela-imposto.csproj.AssemblyReference.cache
+C:\Users\47766876825\Desktop\BackEnd\metodos\tabela-imposto\obj\Debug\net7.0\tabela-imposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47766876825\Desktop\BackEnd\metodos\tabela-imposto\obj\Debug\net7.0\tabela-imposto.AssemblyInfoInputs.cache
+C:\Users\47766876825\Desktop\BackEnd\metodos\tabela-imposto\obj\Debug\net7.0\tabela-imposto.AssemblyInfo.cs
+C:\Users\47766876825\Desktop\BackEnd\metodos\tabela-imposto\obj\Debug\net7.0\tabela-imposto.csproj.CoreCompileInputs.cache
+C:\Users\47766876825\Desktop\BackEnd\metodos\tabela-imposto\obj\Debug\net7.0\tabela-imposto.dll
+C:\Users\47766876825\Desktop\BackEnd\metodos\tabela-imposto\obj\Debug\net7.0\refint\tabela-imposto.dll
+C:\Users\47766876825\Desktop\BackEnd\metodos\tabela-imposto\obj\Debug\net7.0\tabela-imposto.pdb
+C:\Users\47766876825\Desktop\BackEnd\metodos\tabela-imposto\obj\Debug\net7.0\tabela-imposto.genruntimeconfig.cache
+C:\Users\47766876825\Desktop\BackEnd\metodos\tabela-imposto\obj\Debug\net7.0\ref\tabela-imposto.dll

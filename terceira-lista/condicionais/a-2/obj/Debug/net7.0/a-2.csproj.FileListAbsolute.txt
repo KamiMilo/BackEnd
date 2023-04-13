@@ -1,0 +1,15 @@
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\condicionais\a-2\bin\Debug\net7.0\a-2.exe
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\condicionais\a-2\bin\Debug\net7.0\a-2.deps.json
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\condicionais\a-2\bin\Debug\net7.0\a-2.runtimeconfig.json
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\condicionais\a-2\bin\Debug\net7.0\a-2.dll
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\condicionais\a-2\bin\Debug\net7.0\a-2.pdb
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\condicionais\a-2\obj\Debug\net7.0\a-2.csproj.AssemblyReference.cache
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\condicionais\a-2\obj\Debug\net7.0\a-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\condicionais\a-2\obj\Debug\net7.0\a-2.AssemblyInfoInputs.cache
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\condicionais\a-2\obj\Debug\net7.0\a-2.AssemblyInfo.cs
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\condicionais\a-2\obj\Debug\net7.0\a-2.csproj.CoreCompileInputs.cache
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\condicionais\a-2\obj\Debug\net7.0\a-2.dll
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\condicionais\a-2\obj\Debug\net7.0\refint\a-2.dll
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\condicionais\a-2\obj\Debug\net7.0\a-2.pdb
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\condicionais\a-2\obj\Debug\net7.0\a-2.genruntimeconfig.cache
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\condicionais\a-2\obj\Debug\net7.0\ref\a-2.dll
