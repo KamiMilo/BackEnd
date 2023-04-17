@@ -1,0 +1,15 @@
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\condicionais\a-3\bin\Debug\net7.0\a-3.exe
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\condicionais\a-3\bin\Debug\net7.0\a-3.deps.json
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\condicionais\a-3\bin\Debug\net7.0\a-3.runtimeconfig.json
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\condicionais\a-3\bin\Debug\net7.0\a-3.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\condicionais\a-3\bin\Debug\net7.0\a-3.pdb
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\condicionais\a-3\obj\Debug\net7.0\a-3.csproj.AssemblyReference.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\condicionais\a-3\obj\Debug\net7.0\a-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\condicionais\a-3\obj\Debug\net7.0\a-3.AssemblyInfoInputs.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\condicionais\a-3\obj\Debug\net7.0\a-3.AssemblyInfo.cs
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\condicionais\a-3\obj\Debug\net7.0\a-3.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\condicionais\a-3\obj\Debug\net7.0\a-3.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\condicionais\a-3\obj\Debug\net7.0\refint\a-3.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\condicionais\a-3\obj\Debug\net7.0\a-3.pdb
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\condicionais\a-3\obj\Debug\net7.0\a-3.genruntimeconfig.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\condicionais\a-3\obj\Debug\net7.0\ref\a-3.dll

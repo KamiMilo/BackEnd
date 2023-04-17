@@ -11,39 +11,54 @@
 // sabendo-se que o preço do litro da gasolina é R$ 5,30 e o preço do litro do álcool é R$ 4,90.
 // Dica: utilize switch case e funções/métodos para otimizar o algorítimo.
 
-double G= 5.30;
-double A = 4.90;
-
-Console.WriteLine($"qual o tipo de combustivel?");
-string tipo= Console.ReadLine().ToLower();
-
-Console.WriteLine($"insira o tanto de litros vendidos");
-double litros= double.Parse (Console.ReadLine());
-
-double precoG = (G * litros);
-double precoA = (A * litros);
-double valor = 0;
-
-if (tipo == "gasolina" && litros < 20)
+static float total (float n1, float n2)
 {
-    valor = (precoG /100) * 3;
-
-  if (tipo == "gasolina" && litros > 20)
-  {
-    valor = (precoG/100) * 5;
-  }
+   float D= n1 * n2;
+    return D;
 }
 
-if (tipo == "alcool" && litros < 20)
+float a = 4.90f;
+float g = 5.30f;
+
+Console.WriteLine($"Digite o combustivel com A para alcool e G para gasolina:");
+string combustivel = Console.ReadLine().ToLower();
+
+Console.WriteLine($"Digite a quantidade de litros que deseja:");
+float litros = float.Parse (Console.ReadLine());
+
+if (combustivel == "a" && litros < 20.0)
 {
-    valor = (precoA/100) * 4;
-    if (tipo == "alcool" && litros > 20)
-    {
-        valor = (precoA/100) * 6;
-    }
+    float desconto = (float)(total(a, litros) * 0.3);
+    Console.WriteLine($"total a pagar é: {total(a,litros) - desconto}");
     
 }
-    Console.WriteLine($"O valor a ser pago é {valor}");
+else if (combustivel== "a" && litros > 20.0)
+{
+    float desconto = (float)(total(a, litros) * 0.5);
+    Console.WriteLine($"total a pagar é: {total(a,litros) - desconto}");
+    
+}
+else if (combustivel == "g" && litros < 20.0)
+{
+   float desconto = (float)(total(g, litros) * 0.4);
+    Console.WriteLine($"total a pagar é: {total(a,litros) - desconto}");
+}
+
+else if (combustivel == "g" && litros > 20.0)
+{
+  float desconto = (float)(total(g, litros) * 0.6);
+ Console.WriteLine($"total a pagar é: {total(a,litros) - desconto}");
+}
+
+else
+{
+    Console.WriteLine($"valor invalido");
+
+}
+
+
+
+
 
 
 

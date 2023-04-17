@@ -1,0 +1,15 @@
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\estrutura-repeticao\a-4\bin\Debug\net7.0\a-4.exe
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\estrutura-repeticao\a-4\bin\Debug\net7.0\a-4.deps.json
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\estrutura-repeticao\a-4\bin\Debug\net7.0\a-4.runtimeconfig.json
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\estrutura-repeticao\a-4\bin\Debug\net7.0\a-4.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\estrutura-repeticao\a-4\bin\Debug\net7.0\a-4.pdb
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\estrutura-repeticao\a-4\obj\Debug\net7.0\a-4.csproj.AssemblyReference.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\estrutura-repeticao\a-4\obj\Debug\net7.0\a-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\estrutura-repeticao\a-4\obj\Debug\net7.0\a-4.AssemblyInfoInputs.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\estrutura-repeticao\a-4\obj\Debug\net7.0\a-4.AssemblyInfo.cs
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\estrutura-repeticao\a-4\obj\Debug\net7.0\a-4.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\estrutura-repeticao\a-4\obj\Debug\net7.0\a-4.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\estrutura-repeticao\a-4\obj\Debug\net7.0\refint\a-4.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\estrutura-repeticao\a-4\obj\Debug\net7.0\a-4.pdb
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\estrutura-repeticao\a-4\obj\Debug\net7.0\a-4.genruntimeconfig.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\estrutura-repeticao\a-4\obj\Debug\net7.0\ref\a-4.dll
