@@ -13,3 +13,18 @@ C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\vetores\a-7\obj
 C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\vetores\a-7\obj\Debug\net7.0\a-7.pdb
 C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\vetores\a-7\obj\Debug\net7.0\a-7.genruntimeconfig.cache
 C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\terceira-lista\vetores\a-7\obj\Debug\net7.0\ref\a-7.dll
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\vetores\a-7\bin\Debug\net7.0\a-7.exe
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\vetores\a-7\bin\Debug\net7.0\a-7.deps.json
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\vetores\a-7\bin\Debug\net7.0\a-7.runtimeconfig.json
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\vetores\a-7\bin\Debug\net7.0\a-7.dll
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\vetores\a-7\bin\Debug\net7.0\a-7.pdb
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\vetores\a-7\obj\Debug\net7.0\a-7.csproj.AssemblyReference.cache
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\vetores\a-7\obj\Debug\net7.0\a-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\vetores\a-7\obj\Debug\net7.0\a-7.AssemblyInfoInputs.cache
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\vetores\a-7\obj\Debug\net7.0\a-7.AssemblyInfo.cs
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\vetores\a-7\obj\Debug\net7.0\a-7.csproj.CoreCompileInputs.cache
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\vetores\a-7\obj\Debug\net7.0\a-7.dll
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\vetores\a-7\obj\Debug\net7.0\refint\a-7.dll
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\vetores\a-7\obj\Debug\net7.0\a-7.pdb
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\vetores\a-7\obj\Debug\net7.0\a-7.genruntimeconfig.cache
+C:\Users\47766876825\Desktop\BackEnd\terceira-lista\vetores\a-7\obj\Debug\net7.0\ref\a-7.dll

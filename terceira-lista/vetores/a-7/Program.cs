@@ -3,13 +3,20 @@
 // declarado.
 
 
-int[] numeros = new int[4];
+int[] numeros = new int[15];
 
- for (var i = 0; i < 4; i++)
+ for (var i = 0; i < 15; i++)
  {
     Console.WriteLine($"Digite o {i+1}º número:");
     numeros[i] = int.Parse(Console.ReadLine());
 
+}
+Array.Reverse(numeros);
+
+foreach (var item in numeros)
+{
+    Console.WriteLine(item);
+     
 }
  
 

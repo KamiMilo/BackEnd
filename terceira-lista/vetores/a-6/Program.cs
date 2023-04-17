@@ -3,10 +3,19 @@
 // pessoa (para efetuar uma busca) e depois escrever a mensagem ACHEI, se o nome estiver
 // entre os 10 nomes lidos anteriormente (guardados no vetor), ou NÃO ACHEI caso contrário.
 
-string pesquisa = "";
-string[] nomes = new string[4];
+// string[] nomes = {"Eduardo", "Kamille"};
+// int indiceEncotrado = Array.BinarySearch(nomes, "Eduardo");
 
-for (var i = 0; i < 4; i++)
+// Console.WriteLine(indiceEncotrado);
+
+// indiceEncotrado = Array.BinarySearch(nomes, "Kamille");
+// Console.WriteLine(indiceEncotrado);
+
+
+string pesquisa = "";
+string[] nomes = new string[10];
+
+for (var i = 0; i < nomes.Length; i++)
 {
  Console.WriteLine($" Digite o nome da {i+ 1}º pessoa:");
    nomes[i] =Console.ReadLine();
@@ -14,6 +23,22 @@ for (var i = 0; i < 4; i++)
 
 Console.WriteLine($"informe o nome que deseja pesquisar:");
 pesquisa= Console.ReadLine();
+
+int buscar = Array.BinarySearch(nomes,pesquisa);
+
+if (buscar>=0)
+{
+  Console.WriteLine($"ACHEI");
+  
+}
+else
+{
+  Console.WriteLine($"NÃO ACHEI");
+  
+}
+
+
+
 
 
 
