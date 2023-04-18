@@ -12,32 +12,92 @@
 
 // Ao cadastrar uma passagem ao final o sistema deverá perguntar se gostaria de cadastrar uma nova passagem caso contrário voltar ao menu anterior(S/N).
 
+   int senhaLogin = 12345;
+   int senha = 0;
+   int qtdCadastro = 2;
+
+    string[] nomes = new string[qtdCadastro];
+    string[] origens = new string[qtdCadastro];
+    string[] destinos = new string[qtdCadastro];
+    string[] datas = new string[qtdCadastro];
+
 //LOGIN PARA ENTRAR NO SISTEMA :
-int senhaLogin = 12345;
 
-static void validarLogin (int n1,int n2)
-{
-    if (n1 == n2)
+/* static void validarSenha (int n1, int n2)
+{  
+    do
     {
-        Console.WriteLine($"USÚARIO LOGADO!!"); 
-    }
+        Console.WriteLine($"Senha incorreta digite novamente:");
+         n1 = int.Parse(Console.ReadLine());
 
+    } while (n1 != n2);
+
+     
 }
 Console.WriteLine($"Digite seu nome:");
 Console.ReadLine();
 
 Console.WriteLine($"digite a senha (12345):");
-int senha = int.Parse(Console.ReadLine());
+ senha = int.Parse(Console.ReadLine());
+ 
+validarSenha(senha,senhaLogin);
+Console.WriteLine($"usuario logado");
+ */
 
-validarLogin(senhaLogin,senha);
 
+Menu:
+ Console.WriteLine(@$" 
+Escolha uma opção do menu:
 
-// static void menu ()
-// { 
+ 1- Cadastrar passagem
+ 2- Listar Passagens
+ 0- Sair");
 
-// }
+ char opcao = char.Parse (Console.ReadLine());
+ switch (opcao)
+ {
+    case '1':
+    int i =6; 
+    Console.WriteLine($"entrar na opçao 1");
+        break;
+    default:
+     case '2':
+    Console.WriteLine($"entrar na opção 2");
+     break;
+    case '0':
+    Console.WriteLine($"opcao sair");
+    break;
+    
+ }
+  
+static void cadastroDados(string[] nome, string[] origem, string[] destino, string[] data)
+{
 
-// static string passagem()
-// {
+  for (var i = 0; i < 6; i++)
+  {
+    Console.WriteLine($"Digite o nome do passageiro:");
+    nome[i]= Console.ReadLine();   
 
-// }
+    Console.WriteLine($"qual o estado de origem:");
+    origem[i]= Console.ReadLine(); 
+
+     Console.WriteLine($"qual o destino:");
+    destino[i]= Console.ReadLine(); 
+
+    Console.WriteLine($"digite a data:");
+    data[i]= Console.ReadLine(); 
+    
+  }
+    
+}
+
+cadastroDados(nomes ,origens,destinos,datas);
+
+for (var i = 0; i < nomes.Length; i++)
+{
+    Console.WriteLine($"Nome:{nomes[i]}");
+    Console.WriteLine($"origem:{origens[i]}");
+    Console.WriteLine($"origem:{destinos[i]}");
+    Console.WriteLine($"origem:{datas[i]}");
+    
+}
