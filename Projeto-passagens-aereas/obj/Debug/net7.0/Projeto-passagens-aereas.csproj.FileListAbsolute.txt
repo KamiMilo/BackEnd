@@ -13,3 +13,18 @@ C:\Users\47766876825\Desktop\BackEnd\Projeto-passagens-aereas\obj\Debug\net7.0\r
 C:\Users\47766876825\Desktop\BackEnd\Projeto-passagens-aereas\obj\Debug\net7.0\Projeto-passagens-aereas.pdb
 C:\Users\47766876825\Desktop\BackEnd\Projeto-passagens-aereas\obj\Debug\net7.0\Projeto-passagens-aereas.genruntimeconfig.cache
 C:\Users\47766876825\Desktop\BackEnd\Projeto-passagens-aereas\obj\Debug\net7.0\ref\Projeto-passagens-aereas.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Projeto-passagens-aereas\bin\Debug\net7.0\Projeto-passagens-aereas.exe
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Projeto-passagens-aereas\bin\Debug\net7.0\Projeto-passagens-aereas.deps.json
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Projeto-passagens-aereas\bin\Debug\net7.0\Projeto-passagens-aereas.runtimeconfig.json
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Projeto-passagens-aereas\bin\Debug\net7.0\Projeto-passagens-aereas.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Projeto-passagens-aereas\bin\Debug\net7.0\Projeto-passagens-aereas.pdb
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Projeto-passagens-aereas\obj\Debug\net7.0\Projeto-passagens-aereas.csproj.AssemblyReference.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Projeto-passagens-aereas\obj\Debug\net7.0\Projeto-passagens-aereas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Projeto-passagens-aereas\obj\Debug\net7.0\Projeto-passagens-aereas.AssemblyInfoInputs.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Projeto-passagens-aereas\obj\Debug\net7.0\Projeto-passagens-aereas.AssemblyInfo.cs
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Projeto-passagens-aereas\obj\Debug\net7.0\Projeto-passagens-aereas.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Projeto-passagens-aereas\obj\Debug\net7.0\Projeto-passagens-aereas.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Projeto-passagens-aereas\obj\Debug\net7.0\refint\Projeto-passagens-aereas.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Projeto-passagens-aereas\obj\Debug\net7.0\Projeto-passagens-aereas.pdb
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Projeto-passagens-aereas\obj\Debug\net7.0\Projeto-passagens-aereas.genruntimeconfig.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Projeto-passagens-aereas\obj\Debug\net7.0\ref\Projeto-passagens-aereas.dll
