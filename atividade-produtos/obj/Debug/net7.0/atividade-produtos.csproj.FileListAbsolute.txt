@@ -13,3 +13,18 @@ C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\atividade-produtos\obj\Debug\n
 C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\atividade-produtos\obj\Debug\net7.0\atividade-produtos.pdb
 C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\atividade-produtos\obj\Debug\net7.0\atividade-produtos.genruntimeconfig.cache
 C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\atividade-produtos\obj\Debug\net7.0\ref\atividade-produtos.dll
+C:\Users\47766876825\Desktop\BackEnd\atividade-produtos\bin\Debug\net7.0\atividade-produtos.exe
+C:\Users\47766876825\Desktop\BackEnd\atividade-produtos\bin\Debug\net7.0\atividade-produtos.deps.json
+C:\Users\47766876825\Desktop\BackEnd\atividade-produtos\bin\Debug\net7.0\atividade-produtos.runtimeconfig.json
+C:\Users\47766876825\Desktop\BackEnd\atividade-produtos\bin\Debug\net7.0\atividade-produtos.dll
+C:\Users\47766876825\Desktop\BackEnd\atividade-produtos\bin\Debug\net7.0\atividade-produtos.pdb
+C:\Users\47766876825\Desktop\BackEnd\atividade-produtos\obj\Debug\net7.0\atividade-produtos.csproj.AssemblyReference.cache
+C:\Users\47766876825\Desktop\BackEnd\atividade-produtos\obj\Debug\net7.0\atividade-produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47766876825\Desktop\BackEnd\atividade-produtos\obj\Debug\net7.0\atividade-produtos.AssemblyInfoInputs.cache
+C:\Users\47766876825\Desktop\BackEnd\atividade-produtos\obj\Debug\net7.0\atividade-produtos.AssemblyInfo.cs
+C:\Users\47766876825\Desktop\BackEnd\atividade-produtos\obj\Debug\net7.0\atividade-produtos.csproj.CoreCompileInputs.cache
+C:\Users\47766876825\Desktop\BackEnd\atividade-produtos\obj\Debug\net7.0\atividade-produtos.dll
+C:\Users\47766876825\Desktop\BackEnd\atividade-produtos\obj\Debug\net7.0\refint\atividade-produtos.dll
+C:\Users\47766876825\Desktop\BackEnd\atividade-produtos\obj\Debug\net7.0\atividade-produtos.pdb
+C:\Users\47766876825\Desktop\BackEnd\atividade-produtos\obj\Debug\net7.0\atividade-produtos.genruntimeconfig.cache
+C:\Users\47766876825\Desktop\BackEnd\atividade-produtos\obj\Debug\net7.0\ref\atividade-produtos.dll

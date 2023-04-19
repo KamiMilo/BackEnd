@@ -16,34 +16,36 @@ int count = 3;
 char opcao;
 string[] produtos = new string[count];
 float[] preco = new float[count];
-bool promocao;
+bool[] promocao = new bool[count];
 string resposta;
 
-static void validarPromo(string resposta, bool promoção)
+static bool validarPromo()
 {
+    Console.WriteLine($"o produto está em promoção?");
+    string resposta = Console.ReadLine();
+    
     if (resposta == "sim")
     {
-         promoção = true;
-        Console.WriteLine($"Produto em promoção");
+        return true;
     }
     else{
-        promoção = false;
+        return false;
     }
-
 }
 
-static void cadastro(string[] nome)
+static void cadastro(string[] nome,float[] preco, bool[] promocao)
 {
     for (int i = 0; i < nome.Length; i++)
     {
-     Console.WriteLine($"Nome do produto:");
+     Console.WriteLine($"Produto:");
      nome[i]= Console.ReadLine();
-     
-        
-    }
-  
-}
 
+     Console.WriteLine($"Preço:");
+     preco[i]= float.Parse (Console.ReadLine());    
+
+     promocao[i]= validarPromo();     
+    }  
+}
 do
 {
     Console.WriteLine(@$"
@@ -57,13 +59,24 @@ Escolha uma opção do menu:
     switch (opcao)
     {
         case '1':
-            cadastro(produtos);
+            cadastro(produtos,preco,promocao);
             break;
         case '2':
-            for (int i = 0; i < produtos.Length; i++)
+            for (int i = 0; i < count; i++)
             {
+                Console.WriteLine($"------------------------");
+                
                 Console.WriteLine($"Produto:{produtos[i]}");
-
+                Console.WriteLine($"preço:{preco[i]}");
+                if (promocao[i] == true)
+                {
+                    Console.WriteLine($"**o produto está em promoção**");
+                }
+                else
+                {
+                    Console.WriteLine($"");
+                    
+                }        
             }
             break;
         default:
