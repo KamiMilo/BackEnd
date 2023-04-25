@@ -11,10 +11,8 @@ namespace poo_aluno
 
         public float media;
         public float mensalidade;
-        public bool bolsista= true;
+        public bool bolsista;
         public string resposta;
-
-
 
         public float VerMediaFinal()
         {
@@ -22,9 +20,8 @@ namespace poo_aluno
             
         }
 
-        public float VerMensalidade()
+        public void VerMensalidade()
         { 
-           
         if (resposta == "sim")
         {
             bolsista = true;
@@ -34,7 +31,23 @@ namespace poo_aluno
             bolsista = false;
         }
 
-        return 0;
+        }
+
+
+        public float CalcMensalidade()
+        {
+            if (bolsista == true && media >= 8 )
+            {
+               mensalidade= mensalidade * 0.5f;
+            }
+
+            else if(bolsista == true && media > 6 )
+            {
+                mensalidade= mensalidade * 0.7f;
+            }
+
+            return mensalidade;
+
 
         }
 
