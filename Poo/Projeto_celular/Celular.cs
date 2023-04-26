@@ -2,14 +2,13 @@ namespace Projeto_celular
 {
     public class Celular
     {
-         public string cor = "verde";
+        private const int V = 1000;
+        public string cor = "verde";
         public string tamanho = "6.7";
         public string modelo = " N981B";
         public bool ligado;
 
         public string comando;
-
-
 
 
         public void Ligar()
@@ -22,6 +21,17 @@ namespace Projeto_celular
         {
                 ligado = false;
             }
+    }
+
+    static void BarraCarregamento(string texto , int quantidadePontinhos, int tempo)
+     {
+         Console.WriteLine(texto);
+         ;
+        for (int i = 0; i < quantidadePontinhos; i++)
+         {
+             Console.WriteLine(".");
+            Thread.Sleep(tempo);
+        }
     }
     public void Chamada()
     {

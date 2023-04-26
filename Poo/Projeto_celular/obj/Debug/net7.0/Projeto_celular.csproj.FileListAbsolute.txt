@@ -13,3 +13,18 @@ C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Poo\Projeto_celular\obj\Debug\
 C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Poo\Projeto_celular\obj\Debug\net7.0\Projeto_celular.pdb
 C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Poo\Projeto_celular\obj\Debug\net7.0\Projeto_celular.genruntimeconfig.cache
 C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Poo\Projeto_celular\obj\Debug\net7.0\ref\Projeto_celular.dll
+C:\Users\47766876825\Desktop\BackEnd\Poo\Projeto_celular\bin\Debug\net7.0\Projeto_celular.exe
+C:\Users\47766876825\Desktop\BackEnd\Poo\Projeto_celular\bin\Debug\net7.0\Projeto_celular.deps.json
+C:\Users\47766876825\Desktop\BackEnd\Poo\Projeto_celular\bin\Debug\net7.0\Projeto_celular.runtimeconfig.json
+C:\Users\47766876825\Desktop\BackEnd\Poo\Projeto_celular\bin\Debug\net7.0\Projeto_celular.dll
+C:\Users\47766876825\Desktop\BackEnd\Poo\Projeto_celular\bin\Debug\net7.0\Projeto_celular.pdb
+C:\Users\47766876825\Desktop\BackEnd\Poo\Projeto_celular\obj\Debug\net7.0\Projeto_celular.csproj.AssemblyReference.cache
+C:\Users\47766876825\Desktop\BackEnd\Poo\Projeto_celular\obj\Debug\net7.0\Projeto_celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47766876825\Desktop\BackEnd\Poo\Projeto_celular\obj\Debug\net7.0\Projeto_celular.AssemblyInfoInputs.cache
+C:\Users\47766876825\Desktop\BackEnd\Poo\Projeto_celular\obj\Debug\net7.0\Projeto_celular.AssemblyInfo.cs
+C:\Users\47766876825\Desktop\BackEnd\Poo\Projeto_celular\obj\Debug\net7.0\Projeto_celular.csproj.CoreCompileInputs.cache
+C:\Users\47766876825\Desktop\BackEnd\Poo\Projeto_celular\obj\Debug\net7.0\Projeto_celular.dll
+C:\Users\47766876825\Desktop\BackEnd\Poo\Projeto_celular\obj\Debug\net7.0\refint\Projeto_celular.dll
+C:\Users\47766876825\Desktop\BackEnd\Poo\Projeto_celular\obj\Debug\net7.0\Projeto_celular.pdb
+C:\Users\47766876825\Desktop\BackEnd\Poo\Projeto_celular\obj\Debug\net7.0\Projeto_celular.genruntimeconfig.cache
+C:\Users\47766876825\Desktop\BackEnd\Poo\Projeto_celular\obj\Debug\net7.0\ref\Projeto_celular.dll

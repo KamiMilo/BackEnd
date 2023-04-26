@@ -11,21 +11,18 @@ if (ap.comando == "s")
 
     do
     {
-        Console.WriteLine(@$"
-╔═══════════════╗
-    BEM-VINDO
-╚═══════════════╝");
 
-        Console.WriteLine(@$"
-[1]- Fazer Ligação
-[2]- Enviar Mensagem
-[3]- informações sobre o dispositivo
-
-[0]-Desligar
-
+   Console.WriteLine(@$"
+_______________________________________
+| [1]- Fazer Ligação                  |
+| [2]- Enviar Mensagem                |
+| [3]- informações sobre o dispositivo|
+|                                     |
+|[0]-Desligar                         |
+|_____________________________________|
 ");
 
-        opcao = Console.ReadLine();
+ opcao = Console.ReadLine();
 
 
         switch (opcao)
@@ -45,7 +42,7 @@ if (ap.comando == "s")
 
     } while (opcao != "0");
 
-    Console.WriteLine($"esligando...");
+    Console.WriteLine($"Desligando");
     
 
 }
