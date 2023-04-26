@@ -22,8 +22,11 @@ Console.WriteLine($"Qual o valor da Mensalidade?");
 c1.mensalidade= float.Parse (Console.ReadLine());
 
 Console.WriteLine(@$"
-O aluno é bolsista? digite sim ou não");
+O aluno é bolsista? digite s/n");
 c1.resposta= Console.ReadLine().ToLower();
+
+c1.Bolsis();
+
 
 Console.WriteLine(@$"
 Aluno:{c1.nome}
@@ -51,7 +54,7 @@ switch (opcao)
     Console.WriteLine($"A media é de: {c1.VerMediaFinal()}");
         break;
     case "2":
-    Console.WriteLine($"mesnalidade:{c1.CalcMensalidade()} ");
+    Console.WriteLine($"mesnalidade:{c1.VerMensalidade()} ");
        break;
     case "0":
     break;
@@ -60,5 +63,8 @@ switch (opcao)
 }
     
 } while (opcao != "0");
+
+Console.WriteLine($"Encerrado o programa");
+
 
 

@@ -13,3 +13,18 @@ C:\Users\47766876825\Desktop\BackEnd\poo_aluno\obj\Debug\net7.0\refint\poo_aluno
 C:\Users\47766876825\Desktop\BackEnd\poo_aluno\obj\Debug\net7.0\poo_aluno.pdb
 C:\Users\47766876825\Desktop\BackEnd\poo_aluno\obj\Debug\net7.0\poo_aluno.genruntimeconfig.cache
 C:\Users\47766876825\Desktop\BackEnd\poo_aluno\obj\Debug\net7.0\ref\poo_aluno.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Poo\poo_aluno\bin\Debug\net7.0\poo_aluno.exe
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Poo\poo_aluno\bin\Debug\net7.0\poo_aluno.deps.json
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Poo\poo_aluno\bin\Debug\net7.0\poo_aluno.runtimeconfig.json
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Poo\poo_aluno\bin\Debug\net7.0\poo_aluno.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Poo\poo_aluno\bin\Debug\net7.0\poo_aluno.pdb
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Poo\poo_aluno\obj\Debug\net7.0\poo_aluno.csproj.AssemblyReference.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Poo\poo_aluno\obj\Debug\net7.0\poo_aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Poo\poo_aluno\obj\Debug\net7.0\poo_aluno.AssemblyInfoInputs.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Poo\poo_aluno\obj\Debug\net7.0\poo_aluno.AssemblyInfo.cs
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Poo\poo_aluno\obj\Debug\net7.0\poo_aluno.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Poo\poo_aluno\obj\Debug\net7.0\poo_aluno.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Poo\poo_aluno\obj\Debug\net7.0\refint\poo_aluno.dll
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Poo\poo_aluno\obj\Debug\net7.0\poo_aluno.pdb
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Poo\poo_aluno\obj\Debug\net7.0\poo_aluno.genruntimeconfig.cache
+C:\Users\kamil\OneDrive\Área de Trabalho\BackEnd\Poo\poo_aluno\obj\Debug\net7.0\ref\poo_aluno.dll

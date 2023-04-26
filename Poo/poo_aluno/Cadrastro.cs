@@ -12,7 +12,22 @@ namespace poo_aluno
         public float media;
         public float mensalidade;
         public bool bolsista;
+
         public string resposta;
+
+
+        public void Bolsis()
+        {
+            if (this.resposta == "s")
+            {
+                this.bolsista = true;
+            }
+            else
+            {
+                this.bolsista = false;
+            }
+
+        }
 
         public float VerMediaFinal()
         {
@@ -20,23 +35,9 @@ namespace poo_aluno
             
         }
 
-        public void VerMensalidade()
-        { 
-        if (resposta == "sim")
-        {
-            bolsista = true;
-        }
-        else
-        {
-            bolsista = false;
-        }
-
-        }
-
-
-        public float CalcMensalidade()
-        {
-            if (bolsista == true && media >= 8 )
+        public float VerMensalidade()
+        {  
+              if (bolsista == true && media >= 8 )
             {
                mensalidade= mensalidade * 0.5f;
             }
@@ -48,11 +49,17 @@ namespace poo_aluno
 
             return mensalidade;
 
+        
+
+        }
+
+
+        
 
         }
 
 
 
 
-    }
+
 }
