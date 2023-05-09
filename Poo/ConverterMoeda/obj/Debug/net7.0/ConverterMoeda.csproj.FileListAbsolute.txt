@@ -1,0 +1,15 @@
+C:\Users\47766876825\Desktop\BackEnd\Poo\ConverterMoeda\bin\Debug\net7.0\ConverterMoeda.exe
+C:\Users\47766876825\Desktop\BackEnd\Poo\ConverterMoeda\bin\Debug\net7.0\ConverterMoeda.deps.json
+C:\Users\47766876825\Desktop\BackEnd\Poo\ConverterMoeda\bin\Debug\net7.0\ConverterMoeda.runtimeconfig.json
+C:\Users\47766876825\Desktop\BackEnd\Poo\ConverterMoeda\bin\Debug\net7.0\ConverterMoeda.dll
+C:\Users\47766876825\Desktop\BackEnd\Poo\ConverterMoeda\bin\Debug\net7.0\ConverterMoeda.pdb
+C:\Users\47766876825\Desktop\BackEnd\Poo\ConverterMoeda\obj\Debug\net7.0\ConverterMoeda.csproj.AssemblyReference.cache
+C:\Users\47766876825\Desktop\BackEnd\Poo\ConverterMoeda\obj\Debug\net7.0\ConverterMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47766876825\Desktop\BackEnd\Poo\ConverterMoeda\obj\Debug\net7.0\ConverterMoeda.AssemblyInfoInputs.cache
+C:\Users\47766876825\Desktop\BackEnd\Poo\ConverterMoeda\obj\Debug\net7.0\ConverterMoeda.AssemblyInfo.cs
+C:\Users\47766876825\Desktop\BackEnd\Poo\ConverterMoeda\obj\Debug\net7.0\ConverterMoeda.csproj.CoreCompileInputs.cache
+C:\Users\47766876825\Desktop\BackEnd\Poo\ConverterMoeda\obj\Debug\net7.0\ConverterMoeda.dll
+C:\Users\47766876825\Desktop\BackEnd\Poo\ConverterMoeda\obj\Debug\net7.0\refint\ConverterMoeda.dll
+C:\Users\47766876825\Desktop\BackEnd\Poo\ConverterMoeda\obj\Debug\net7.0\ConverterMoeda.pdb
+C:\Users\47766876825\Desktop\BackEnd\Poo\ConverterMoeda\obj\Debug\net7.0\ConverterMoeda.genruntimeconfig.cache
+C:\Users\47766876825\Desktop\BackEnd\Poo\ConverterMoeda\obj\Debug\net7.0\ref\ConverterMoeda.dll
