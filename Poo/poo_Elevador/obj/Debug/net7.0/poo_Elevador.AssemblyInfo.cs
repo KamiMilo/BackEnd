@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("tabela-imposto")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("poo_Elevador")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("tabela-imposto")]
-[assembly: System.Reflection.AssemblyTitleAttribute("tabela-imposto")]
+[assembly: System.Reflection.AssemblyProductAttribute("poo_Elevador")]
+[assembly: System.Reflection.AssemblyTitleAttribute("poo_Elevador")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
