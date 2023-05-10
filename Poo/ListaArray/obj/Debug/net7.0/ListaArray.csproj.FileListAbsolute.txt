@@ -1,0 +1,15 @@
+C:\Users\47766876825\Desktop\BackEnd\Poo\ListaArray\bin\Debug\net7.0\ListaArray.exe
+C:\Users\47766876825\Desktop\BackEnd\Poo\ListaArray\bin\Debug\net7.0\ListaArray.deps.json
+C:\Users\47766876825\Desktop\BackEnd\Poo\ListaArray\bin\Debug\net7.0\ListaArray.runtimeconfig.json
+C:\Users\47766876825\Desktop\BackEnd\Poo\ListaArray\bin\Debug\net7.0\ListaArray.dll
+C:\Users\47766876825\Desktop\BackEnd\Poo\ListaArray\bin\Debug\net7.0\ListaArray.pdb
+C:\Users\47766876825\Desktop\BackEnd\Poo\ListaArray\obj\Debug\net7.0\ListaArray.csproj.AssemblyReference.cache
+C:\Users\47766876825\Desktop\BackEnd\Poo\ListaArray\obj\Debug\net7.0\ListaArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47766876825\Desktop\BackEnd\Poo\ListaArray\obj\Debug\net7.0\ListaArray.AssemblyInfoInputs.cache
+C:\Users\47766876825\Desktop\BackEnd\Poo\ListaArray\obj\Debug\net7.0\ListaArray.AssemblyInfo.cs
+C:\Users\47766876825\Desktop\BackEnd\Poo\ListaArray\obj\Debug\net7.0\ListaArray.csproj.CoreCompileInputs.cache
+C:\Users\47766876825\Desktop\BackEnd\Poo\ListaArray\obj\Debug\net7.0\ListaArray.dll
+C:\Users\47766876825\Desktop\BackEnd\Poo\ListaArray\obj\Debug\net7.0\refint\ListaArray.dll
+C:\Users\47766876825\Desktop\BackEnd\Poo\ListaArray\obj\Debug\net7.0\ListaArray.pdb
+C:\Users\47766876825\Desktop\BackEnd\Poo\ListaArray\obj\Debug\net7.0\ListaArray.genruntimeconfig.cache
+C:\Users\47766876825\Desktop\BackEnd\Poo\ListaArray\obj\Debug\net7.0\ref\ListaArray.dll
