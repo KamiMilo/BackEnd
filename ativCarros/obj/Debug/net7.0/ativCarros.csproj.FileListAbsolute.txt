@@ -1,0 +1,15 @@
+C:\Users\47766876825\Desktop\BackEnd\ativCarros\bin\Debug\net7.0\ativCarros.exe
+C:\Users\47766876825\Desktop\BackEnd\ativCarros\bin\Debug\net7.0\ativCarros.deps.json
+C:\Users\47766876825\Desktop\BackEnd\ativCarros\bin\Debug\net7.0\ativCarros.runtimeconfig.json
+C:\Users\47766876825\Desktop\BackEnd\ativCarros\bin\Debug\net7.0\ativCarros.dll
+C:\Users\47766876825\Desktop\BackEnd\ativCarros\bin\Debug\net7.0\ativCarros.pdb
+C:\Users\47766876825\Desktop\BackEnd\ativCarros\obj\Debug\net7.0\ativCarros.csproj.AssemblyReference.cache
+C:\Users\47766876825\Desktop\BackEnd\ativCarros\obj\Debug\net7.0\ativCarros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47766876825\Desktop\BackEnd\ativCarros\obj\Debug\net7.0\ativCarros.AssemblyInfoInputs.cache
+C:\Users\47766876825\Desktop\BackEnd\ativCarros\obj\Debug\net7.0\ativCarros.AssemblyInfo.cs
+C:\Users\47766876825\Desktop\BackEnd\ativCarros\obj\Debug\net7.0\ativCarros.csproj.CoreCompileInputs.cache
+C:\Users\47766876825\Desktop\BackEnd\ativCarros\obj\Debug\net7.0\ativCarros.dll
+C:\Users\47766876825\Desktop\BackEnd\ativCarros\obj\Debug\net7.0\refint\ativCarros.dll
+C:\Users\47766876825\Desktop\BackEnd\ativCarros\obj\Debug\net7.0\ativCarros.pdb
+C:\Users\47766876825\Desktop\BackEnd\ativCarros\obj\Debug\net7.0\ativCarros.genruntimeconfig.cache
+C:\Users\47766876825\Desktop\BackEnd\ativCarros\obj\Debug\net7.0\ref\ativCarros.dll
