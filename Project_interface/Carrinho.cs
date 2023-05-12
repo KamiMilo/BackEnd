@@ -19,7 +19,7 @@ namespace Project_interface
 
         public void Listar()
         {
-            if (carrinho.Count != 0)
+            if (carrinho.Count != 0  || carrinho != null)
             {
                 foreach (Produto p in carrinho)
                 {
@@ -29,7 +29,7 @@ namespace Project_interface
             }
             else
             {
-                Console.WriteLine($"Não há produtos no carrinho para listar.");
+                Console.WriteLine($"Carrinho Vazio!");
                 
             }
         }
@@ -43,7 +43,31 @@ namespace Project_interface
 
         public void Remover(Produto _produto)
         {
-            throw new NotImplementedException();
+            carrinho.Remove(_produto);
+        }
+
+        public void ValorTotal()
+        {
+            //+= : Operador de incremento
+            Valor = 0;
+
+            if (carrinho.Count > 0 || carrinho !=null)
+            {
+                foreach (Produto item in carrinho)
+                {
+                   Valor += item.Preco;
+                }
+
+                Console.WriteLine($"O total do seu Carrinho está em : {Valor:C}");
+                
+            }
+            else{
+                Console.WriteLine($"Seu Carrinho está Vazio!");
+                
+            }
+            
+
+
         }
     }
 }

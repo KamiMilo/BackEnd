@@ -20,11 +20,9 @@ namespace Project_interface
         
         this.Codigo= _codigo;
         this.Nome=_nome;
-        this.preco=_preco;
+        this.Preco=_preco;
 
        }
-
-       
-
+  
     }
 }

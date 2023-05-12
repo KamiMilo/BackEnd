@@ -25,6 +25,5 @@ namespace Project_interface
         void Remover(Produto _produto);
         
 
-
     }
 }
