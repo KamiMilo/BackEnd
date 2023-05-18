@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Projeto_Produtos
+namespace Projeto_Produtos 
 {
     public class Marca 
     {
@@ -14,15 +14,13 @@ namespace Projeto_Produtos
         public DateTime DataCadrastro {get;  set;}= DateTime.Now;
 
         List<Marca> Marcas = new List<Marca>();
+        internal static string? marca;
 
-        public void CadrastrarMarca (string marca)
+        public void CadrastrarMarca ()
         {
             Marca m1= new Marca();
-
             this.NomeMarca = marca;
-
             Marcas.Add(m1);
-
         }
 
         public void Listar()

@@ -26,12 +26,19 @@ namespace Projeto_Produtos
            Senha = Console.ReadLine();
 
            Console.WriteLine($"Usuario Cadrastrado!!");
-           
          }
          public void Deletar ()
          {
             
-            
+            Console.WriteLine($"Deseja deletar esse usuario?");
+            Console.WriteLine($"s/n");
+            char resposta = char.Parse(Console.ReadLine());
+
+            if (resposta == 's')
+            {
+                Console.WriteLine($" usuario deletado");
+                 
+            }
              
          }
 
