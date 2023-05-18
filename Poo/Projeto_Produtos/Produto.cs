@@ -36,7 +36,6 @@ namespace Projeto_Produtos
          produtos.Add(produt);
 
          Console.WriteLine($"Produto Cadrastrado!!");
-    
      }
 
      public void Listar ()
@@ -53,9 +52,9 @@ namespace Projeto_Produtos
         }
      }
 
-      public void Deletar (Produto NomeProduto)
+      public void Deletar ()
       {
-        produtos.RemoveAt();
+       Produto p1= produtos.Find (x => x.NomeProduto )
       }
 
 

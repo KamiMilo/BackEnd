@@ -28,10 +28,11 @@ namespace Projeto_Produtos
            Console.WriteLine($"Usuario Cadrastrado!!");
            
          }
-         public string Deletar ()
+         public void Deletar ()
          {
             
-             return ".";
+            
+             
          }
 
 

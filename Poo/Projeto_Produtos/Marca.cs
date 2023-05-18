@@ -31,8 +31,7 @@ namespace Projeto_Produtos
             {
                 Console.WriteLine(@$"
                 Marca: {item}
-                Data de Cadrastro: {DataCadrastro}");
-                
+                Data de Cadrastro: {DataCadrastro}");       
             }
 
         }
