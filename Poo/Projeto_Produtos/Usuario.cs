@@ -7,21 +7,31 @@ namespace Projeto_Produtos
 {
     public class Usuario
     {
-        Usuario usuario =new Usuario();
-        public int CodigoUs {get; private set;}
-         public string Email {get; private set;} 
-        public string Nome {get; private set;} 
-        public string Senha {get; private set;}
+        /* Usuario usuario =new Usuario(); */
+        public int CodigoUs {get;  set;}
+         public string Email {get;  set;} 
+        public string Nome {get;  set;} 
+        public string Senha {get;  set;}
          public DateTime DataCadrastroUs {get; set;}= DateTime.Now;
 
-         public string CadastrarUsuario(Usuario usuario)
+         public void CadastrarUsuario()
          {
-            return ".";
+            Usuario usuario1= new Usuario();
 
+           Console.WriteLine($"Informe o nome do usuario:");
+           Nome = Console.ReadLine();
+            Console.WriteLine($"Informe um email:");
+           Email = Console.ReadLine();
+            Console.WriteLine($"crie uma senha:");
+           Senha = Console.ReadLine();
+
+           Console.WriteLine($"Usuario Cadrastrado!!");
+           
          }
-         public string Deletar (Usuario usuario)
+         public string Deletar ()
          {
-            return ".";
+            
+             return ".";
          }
 
 

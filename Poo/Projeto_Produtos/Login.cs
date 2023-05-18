@@ -9,14 +9,20 @@ namespace Projeto_Produtos
     {
         public bool Logado {get; set;}
 
-        public Login()
+        public Login(string email,string senha)
         {
+             Console.WriteLine($"Digite o seu Email:");
+            email= Console.ReadLine();
             
+            Console.WriteLine($"Digite a senha:");
+            senha= Console.ReadLine();
         }
 
-         public void Logar (string Usuario)
+         public void Logar ()
          {
             
+
+
          }
 
             public void Deslogar (string Usuario)

@@ -7,21 +7,33 @@ namespace Projeto_Produtos
 {
     public class Marca 
     {
-        public int Codigo {get; private set;}
+        public int Codigo {get;  set;}
 
-        public string NomeMarca {get; private set;}
+        public string NomeMarca {get;  set;}
 
-        public DateTime DataCadrastro {get; private set;}= DateTime.Now;
+        public DateTime DataCadrastro {get;  set;}= DateTime.Now;
 
         List<Marca> Marcas = new List<Marca>();
 
-        public string CadrastrarMarca (Marca marca)
+        public void CadrastrarMarca (string marca)
         {
-            return ".";
+            Marca m1= new Marca();
+
+            this.NomeMarca = marca;
+
+            Marcas.Add(m1);
+
         }
 
         public void Listar()
         {
+            foreach (var item in Marcas)
+            {
+                Console.WriteLine(@$"
+                Marca: {item}
+                Data de Cadrastro: {DataCadrastro}");
+                
+            }
 
         }
 
