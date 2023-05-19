@@ -24,7 +24,7 @@ namespace Projeto_Produtos
         {
         }
 
-        public Produto(string? _nome, int _codigo, float _preco, string? marca1)
+        public Produto(string _nome, int _codigo, float _preco, string marca1)
         {
             NomeProduto = _nome;
             Codigo = _codigo;

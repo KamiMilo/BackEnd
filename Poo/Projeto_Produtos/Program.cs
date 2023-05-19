@@ -2,7 +2,6 @@
 
   Login login = new Login ();
 
-  login.Menu();
 
 
         

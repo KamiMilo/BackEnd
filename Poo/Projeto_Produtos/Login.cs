@@ -16,22 +16,25 @@ namespace Projeto_Produtos
 
         public  Login()
         {
+          Logar();
+
         }
 
          public void Logar ()
          {
              Console.WriteLine($"Digite o seu nome:");
-            Nome= Console.ReadLine();
+            string nome= Console.ReadLine();
             
             Console.WriteLine($"Digite a senha de acesso (123*):");
-            Senha= Console.ReadLine();
+           string senha= Console.ReadLine();
 
-            if (Nome == user.Nome &&  Senha == "123*")
+            if (nome == user.Nome &&  senha == "123*")
             {
                 Logado == true;
                 Console.WriteLine($"USUARIO LOGADO!!");
                 Console.WriteLine($"");    
                 Console.WriteLine($"bem vindo {user.Nome}");
+                Menu();
 
             }   
 
