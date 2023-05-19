@@ -5,9 +5,13 @@ using System.Threading.Tasks;
 
 namespace Projeto_Produtos
 {
-    public class Login :Usuario
+    public class Login 
     {
-        Usuario user = new Usuario();
+
+       public Login login = new Login();
+       public Produto produto = new Produto();
+       public Marca marca = new Marca();
+       public Usuario user = new Usuario();
         public bool Logado {get; set;}
 
         public  Login()
@@ -17,33 +21,37 @@ namespace Projeto_Produtos
          public void Logar ()
          {
              Console.WriteLine($"Digite o seu nome:");
-           user.Nome= Console.ReadLine();
+            Nome= Console.ReadLine();
             
             Console.WriteLine($"Digite a senha de acesso (123*):");
-           user.Senha= Console.ReadLine();
+            Senha= Console.ReadLine();
 
-            if (user.Senha != "123*")
+            if (Nome == user.Nome &&  Senha == "123*")
             {
-                    do
-                {
-                    Console.WriteLine($"senha incorreta Digite novamente:");
-                    user.Senha = Console.ReadLine();
-
-                    
-
-                } while (user.Senha != "123*");
-
-            }   
-            else
-            {
-            
+                Logado == true;
                 Console.WriteLine($"USUARIO LOGADO!!");
                 Console.WriteLine($"");    
                 Console.WriteLine($"bem vindo {user.Nome}");
+
+            }   
+
+            else if (Nome != user.Nome && Senha == "123*"  ) {
+
+                Console.WriteLine($"Úsuario incorreto digite novamente");
+                Nome = Console.ReadLine();
+            }
+            else
+            {
+                 do
+                {
+                    Console.WriteLine($"senha incorreta Digite novamente:");
+                    Senha = Console.ReadLine();
+
+                    
+
+                } while (Nome != user.Nome &&  user.Senha != "123*" );
             
             } 
-
-
          }
 
             public void Deslogar ()
@@ -54,25 +62,61 @@ namespace Projeto_Produtos
             char resposta = char.Parse(Console.ReadLine());
             if (resposta == 's')
             {
-               BarraCarregamento("Deslogando", 6, 100);
+              Console.WriteLine($"Usuario Deslogado");
+              
             }
-
         }
 
          public void Menu(){
+         char opcao;
+            do
+            {
+            Console.WriteLine(@$"
+            --------------------------
+                     MENU
+            [1]- Cadastrar Produto    
+            [2]- Lista de Produtos
+            [3]- deletar produto
+            [4]- Cadrastar Marca
+            [5]- Lista de Marcas
+            [6] -Deletar Marca
+            [7]- Deslogar
+            [0]- Sair do Sistema 
+            ");
+
+             opcao= char.Parse (Console.ReadLine());
+
+          switch (opcao)
+          {
+            case ('1'):
+            { produto.Cadastrar();}
+            break;
+            case ('2'):
+            { produto.Listar();}
+            break;
+            case ('3'):
+            {produto.Deletar(); }
+            break;
+            case ('4'):
+            {marca.CadrastrarMarca();}
+            break;
+            case ('5'):
+            {marca.Listar();}
+            break;
+            case ('6'):
+            { marca.Deletar();}
+            break;
+            case ('7'):
+            { login.Deslogar();}
+            break;
+            
+            default:
+          }
+                
+            } while (opcao != 0);
+
             
          }
 
-
-          static void BarraCarregamento(string texto, int quantidadePontinhos, int tempo)
-        {
-            Console.WriteLine(texto);
-            
-            for (int i = 0; i <= quantidadePontinhos; i++)
-            {
-                Console.WriteLine($".");
-                Thread.Sleep(tempo);
-            }
-        }
     }
 }

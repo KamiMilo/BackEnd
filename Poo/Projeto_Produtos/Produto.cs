@@ -7,9 +7,9 @@ namespace Projeto_Produtos
 {
     public class Produto 
     {
-        Marca marca = new Marca();
-        Usuario usuario = new Usuario();
-        Login login = new Login();
+       public Marca marca = new Marca();
+        public Usuario usuario = new Usuario();
+        public Login login = new Login();
 
         public int Codigo {get; set;}
         public string NomeProduto {get; set;}
@@ -66,10 +66,11 @@ namespace Projeto_Produtos
             Nome: {produto.NomeProduto}
             Codigo: {produto.Codigo}
             Preço: {produto.Preco}
-            Marca:{marca.NomeMarca}
-            Cadastrado por:{login.Nome}
-            ");     
+            Marca:{item.Marca.NomeMarca}
+            ");  
+ 
         }
+            // Console.WriteLine($"Cadastrado por:{login.Nome}");
      }
 
       public void Deletar ()

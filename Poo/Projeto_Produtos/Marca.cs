@@ -13,12 +13,20 @@ namespace Projeto_Produtos
 
         public DateTime DataCadrastro {get;  set;}= DateTime.Now;
 
-        List<Marca> Marcas = new List<Marca>();
-        internal static string? marca;
+       public static List<Marca> Marcas = new List<Marca>();
+        // internal static string? marca;
 
         public void CadrastrarMarca ()
         {
-            Marca m1= new Marca();
+            Marca m1 = new Marca();
+
+            Console.WriteLine($"Marca:");
+            NomeMarca= Console.ReadLine();
+
+            Console.WriteLine($"Código:");
+            Codigo =Console.ReadLine();
+            
+            
             this.NomeMarca = marca;
             Marcas.Add(m1);
         }
@@ -34,9 +42,14 @@ namespace Projeto_Produtos
 
         }
 
-        public void Deletar(string Marca)
+        public void Deletar()
         {
+            Console.WriteLine($"Informe o codigo da marca:");
+            int codigoMarca= int.Parse (Console.ReadLine());
 
+            Marca m1 = Marcas.Find (x=> codigoMarca );
+            
+            
         }
 
 
