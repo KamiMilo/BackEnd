@@ -22,15 +22,6 @@ namespace Projeto_Produtos
          public void Deletar ()
          {
             
-            Console.WriteLine($"Deseja deletar esse usuario?");
-            Console.WriteLine($"s/n");
-            char resposta = char.Parse(Console.ReadLine());
-
-            if (resposta == 's')
-            {
-                Console.WriteLine($" usuario deletado");
-                 
-            }
              
          }
 
