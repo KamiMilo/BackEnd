@@ -7,29 +7,33 @@ namespace Projeto_Produtos
 {
     public class Produto 
     {
-       public Marca marca = new Marca();
-        public Usuario usuario = new Usuario();
-        public Login login = new Login();
-
+       public Marca Marca;
+       
         public int Codigo {get; set;}
         public string NomeProduto {get; set;}
         public float Preco {get; set;}
-        public Usuario CadastradoPor = new Usuario();
+        public Usuario Usuario;
 
         public DateTime DataCadrastro {get; set;}= DateTime.Now;
 
         List<Produto> produtos= new List<Produto>();
 
+        Marca objMarca = new Marca();
+
         public Produto()
         {
+
         }
 
-        public Produto(string _nome, int _codigo, float _preco, string marca1)
+        public Produto(string _nome, int _codigo, float _preco, Marca _marca, Usuario _usuario, DateTime _data)
         {
             NomeProduto = _nome;
             Codigo = _codigo;
             Preco = _preco;
-            marca.NomeMarca = marca1;
+            Marca = _marca;
+            Usuario = _usuario;
+            DataCadrastro = _data;
+
         }
 
         public void Cadastrar ()
@@ -37,15 +41,27 @@ namespace Projeto_Produtos
         Produto produt =new Produto();
 
          Console.WriteLine($"Informe o nome do produto:");
-         NomeProduto = Console.ReadLine();
+          string nomeProduto = Console.ReadLine();
          Console.WriteLine($"Informe o codigo:");
-         Codigo = int.Parse (Console.ReadLine());
+         int codigo = int.Parse (Console.ReadLine());
          Console.WriteLine($"Informe o preco :");
-         Preco = float.Parse (Console.ReadLine());
-         Console.WriteLine($"Informe a Marca:");
-         marca.NomeMarca= Console.ReadLine();
-           
-            produtos.Add(new Produto(NomeProduto,Codigo,Preco,marca.NomeMarca));
+         float preco = float.Parse (Console.ReadLine());
+         Console.WriteLine($"informe a marca:");
+         string marca= Console.ReadLine();
+
+         Marca encontrado = objMarca.Marcas.Find (x=> x.NomeMarca == marca);
+        //  int index = Marca.Marcas(encontrado);
+         Marca Marca = encontrado;
+
+            if (encontrado)
+           {
+            
+             
+             
+           } 
+
+
+            produtos.Add(new Produto(NomeProduto,Codigo,Preco,Marca, Usuario,DataCadrastro));
 
             Console.WriteLine($"PRODUTO CADRASTRADO!!");
 
@@ -53,8 +69,8 @@ namespace Projeto_Produtos
             produto: {NomeProduto}
             código: {Codigo}
             Preço: {Preco}
-            Marca:{marca.NomeMarca}
             ");
+            // Marca:{marca.NomeMarca}
             
      }
 
@@ -66,8 +82,8 @@ namespace Projeto_Produtos
             Nome: {produto.NomeProduto}
             Codigo: {produto.Codigo}
             Preço: {produto.Preco}
-            Marca:{item.Marca.NomeMarca}
             ");  
+            //  Marca:{produto.Marca.NomeMarca}
  
         }
             // Console.WriteLine($"Cadastrado por:{login.Nome}");

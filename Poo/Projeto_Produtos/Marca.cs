@@ -11,7 +11,7 @@ namespace Projeto_Produtos
 
         public string NomeMarca {get;  set;}
 
-        public DateTime DataCadrastro {get;  set;}= DateTime.Now;
+        public DateTime DataCadrastro {get;  set;}
 
        public static List<Marca> Marcas = new List<Marca>();
         // internal static string? marca;
@@ -21,23 +21,27 @@ namespace Projeto_Produtos
             Marca m1 = new Marca();
 
             Console.WriteLine($"Marca:");
-            NomeMarca= Console.ReadLine();
+            string newNomeMarca= Console.ReadLine();
 
             Console.WriteLine($"Código:");
-            Codigo =Console.ReadLine();
+            int codigo = int.Parse (Console.ReadLine());
             
             
-            this.NomeMarca = marca;
+            m1.NomeMarca = newNomeMarca;
+            m1.Codigo = codigo;
+            m1.DataCadrastro = DateTime.Now;
             Marcas.Add(m1);
+
         }
 
         public void Listar()
         {
-            foreach (var item in Marcas)
+            foreach (Marca objMarca in Marcas)
             {
                 Console.WriteLine(@$"
-                Marca: {item}
-                Data de Cadrastro: {DataCadrastro}");       
+                Código: {objMarca.Codigo}
+                Marca: {objMarca.NomeMarca}
+                Data de Cadrastro: {objMarca.DataCadrastro}");       
             }
 
         }
@@ -47,9 +51,9 @@ namespace Projeto_Produtos
             Console.WriteLine($"Informe o codigo da marca:");
             int codigoMarca= int.Parse (Console.ReadLine());
 
-            Marca m1 = Marcas.Find (x=> codigoMarca );
-            
-            
+            Marca encontrado = Marcas.Find (x=> x.Codigo == codigoMarca);
+            int index = Marcas.IndexOf(encontrado);
+            Marcas.RemoveAt(index);
         }
 
 
