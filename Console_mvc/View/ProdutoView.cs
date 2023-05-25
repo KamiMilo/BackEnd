@@ -20,5 +20,22 @@ namespace Console_mvc
                 Console.WriteLine($"Preço: {item.Preco:C}\n"); 
             }
         }
+
+        public Produto Cadastrar()
+        {
+            Produto ObjProduto = new Produto();
+            
+            Console.WriteLine($"Informe o codigo:");
+            ObjProduto.Codigo= int.Parse (Console.ReadLine());
+
+            Console.WriteLine($"Informe o Nome:");
+            ObjProduto.Nome= Console.ReadLine();
+
+            Console.WriteLine($"Informe o Preço:");
+            ObjProduto.Preco= float.Parse (Console.ReadLine());
+
+            return ObjProduto;
+            
+        }
     }
 }

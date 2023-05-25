@@ -41,7 +41,7 @@ namespace Console_mvc.Model
           public List<Produto> Ler()
           {
             //instanciar uma lista de produtos
-            List<Produto> produtos = new List<Produto>();
+            List<Produto> ListadeProdutos = new List<Produto>();
 
             //array que recebe cada linha do csv
             string[] linhas = File.ReadAllLines(PATH);
@@ -69,13 +69,29 @@ namespace Console_mvc.Model
                 p.Preco = float.Parse(atributos [2]);//6,50
 
                 //adicionar o objeto dentro da lista
-                produtos.Add(p);
+                ListadeProdutos.Add(p);
 
             }
 
                 //retorna a lista de produtos
-                return produtos;
+                return ListadeProdutos;
+            }
+            //Método para preparar linhas do CSV.
+          public string PrepararLinhasCSV(Produto p)
+          {
+            return $"{p.Codigo};{p.Nome};{p.Preco}";
           }
+
+          //Método para inserir um produto  no arquivo csv.
+          public void InserirProduto(Produto p)
+          {
+            //adiciona o método prepararlinhas com o produto dentro de um array "Linhas".
+            string[] linhas= {(PrepararLinhasCSV(p))};
+
+            File.AppendAllLines(PATH,linhas);
+          }
+
+
  
 
 

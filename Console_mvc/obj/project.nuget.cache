@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "epSM0HxH5XT4VYA23q8nlC94pwIx3YJarf4EmQkGHEdNP6+O6t0QYd0KGO6Y00b1igvRR+nQ4+QKlMd6HeTQ3A==",
+  "dgSpecHash": "axpD498ubP4n0DnRAKgNmx+LlEpdOJKIJrLKSQrEJAtt0J9md2hAGVoyKZlirRv/Z089pvZ0yIoEY2OthTmnWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\47766876825\\Desktop\\Console_mvc\\Console_mvc.csproj",
+  "projectFilePath": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Console_mvc\\Console_mvc.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

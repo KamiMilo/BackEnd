@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\47766876825\\Desktop\\Console_mvc\\Console_mvc.csproj": {}
+    "C:\\Users\\47766876825\\Desktop\\BackEnd\\Console_mvc\\Console_mvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\47766876825\\Desktop\\Console_mvc\\Console_mvc.csproj": {
+    "C:\\Users\\47766876825\\Desktop\\BackEnd\\Console_mvc\\Console_mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\47766876825\\Desktop\\Console_mvc\\Console_mvc.csproj",
+        "projectUniqueName": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Console_mvc\\Console_mvc.csproj",
         "projectName": "Console_mvc",
-        "projectPath": "C:\\Users\\47766876825\\Desktop\\Console_mvc\\Console_mvc.csproj",
+        "projectPath": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Console_mvc\\Console_mvc.csproj",
         "packagesPath": "C:\\Users\\47766876825\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\47766876825\\Desktop\\Console_mvc\\obj\\",
+        "outputPath": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Console_mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\47766876825\\AppData\\Roaming\\NuGet\\NuGet.Config",
