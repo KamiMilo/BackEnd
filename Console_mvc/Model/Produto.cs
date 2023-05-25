@@ -76,7 +76,8 @@ namespace Console_mvc.Model
                 //retorna a lista de produtos
                 return ListadeProdutos;
             }
-            //Método para preparar linhas do CSV.
+
+        //Método para preparar linhas do CSV.
           public string PrepararLinhasCSV(Produto p)
           {
             return $"{p.Codigo};{p.Nome};{p.Preco}";
@@ -91,8 +92,6 @@ namespace Console_mvc.Model
             File.AppendAllLines(PATH,linhas);
           }
 
-
- 
 
 
     }

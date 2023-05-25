@@ -1,0 +1,15 @@
+C:\Users\47766876825\Desktop\BackEnd\Eventos_Mvc\bin\Debug\net7.0\Eventos_Mvc.exe
+C:\Users\47766876825\Desktop\BackEnd\Eventos_Mvc\bin\Debug\net7.0\Eventos_Mvc.deps.json
+C:\Users\47766876825\Desktop\BackEnd\Eventos_Mvc\bin\Debug\net7.0\Eventos_Mvc.runtimeconfig.json
+C:\Users\47766876825\Desktop\BackEnd\Eventos_Mvc\bin\Debug\net7.0\Eventos_Mvc.dll
+C:\Users\47766876825\Desktop\BackEnd\Eventos_Mvc\bin\Debug\net7.0\Eventos_Mvc.pdb
+C:\Users\47766876825\Desktop\BackEnd\Eventos_Mvc\obj\Debug\net7.0\Eventos_Mvc.csproj.AssemblyReference.cache
+C:\Users\47766876825\Desktop\BackEnd\Eventos_Mvc\obj\Debug\net7.0\Eventos_Mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47766876825\Desktop\BackEnd\Eventos_Mvc\obj\Debug\net7.0\Eventos_Mvc.AssemblyInfoInputs.cache
+C:\Users\47766876825\Desktop\BackEnd\Eventos_Mvc\obj\Debug\net7.0\Eventos_Mvc.AssemblyInfo.cs
+C:\Users\47766876825\Desktop\BackEnd\Eventos_Mvc\obj\Debug\net7.0\Eventos_Mvc.csproj.CoreCompileInputs.cache
+C:\Users\47766876825\Desktop\BackEnd\Eventos_Mvc\obj\Debug\net7.0\Eventos_Mvc.dll
+C:\Users\47766876825\Desktop\BackEnd\Eventos_Mvc\obj\Debug\net7.0\refint\Eventos_Mvc.dll
+C:\Users\47766876825\Desktop\BackEnd\Eventos_Mvc\obj\Debug\net7.0\Eventos_Mvc.pdb
+C:\Users\47766876825\Desktop\BackEnd\Eventos_Mvc\obj\Debug\net7.0\Eventos_Mvc.genruntimeconfig.cache
+C:\Users\47766876825\Desktop\BackEnd\Eventos_Mvc\obj\Debug\net7.0\ref\Eventos_Mvc.dll
