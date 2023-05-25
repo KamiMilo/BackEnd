@@ -24,5 +24,16 @@ namespace Console_mvc.Controller
             produtoView.Listar(produtos);
 
         }
+
+        //método controlador para acessar o cadastro do produto da viwe
+        public void CadastrarProduto()
+        {
+            //chamada para view que recebe as informaçoes e guarda em um objeto (novoProduto) para ser inserido no csv.
+            Produto novoProduto= produtoView.Cadastrar();
+
+            //chamada para a model para inserir esse objeto no csv.
+            produto.InserirProduto(novoProduto);
+
+        }
     }
 }
