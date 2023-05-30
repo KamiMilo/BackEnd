@@ -32,12 +32,31 @@ namespace Eventos_Mvc.Model
  
         }
 
-        public List<evento> Ler()
+        public List<Eventos> Ler()
         {
-          
+           List<Eventos> listaDeEventos = new List<Eventos>();
+           
+           //array que recebe cada linha do csv
+           string[] EventosRegistrados = File.ReadAllLines(PATH);
+
+           foreach (var item in EventosRegistrados)
+           {
+                //array para receber os itens da linha separada por ;
+                string[] PropriedadesEvento = item.Split(";");
+
+                Eventos ObjEvento = new Eventos();
+
+                ObjEvento.Nome= (PropriedadesEvento[0]);
+                ObjEvento.Descricao= (PropriedadesEvento[1]);
+                ObjEvento.Data= (PropriedadesEvento[2]);
+
+                listaDeEventos.Add(ObjEvento);
+           }
+
+              return listaDeEventos;
         }
 
 
      
     }
-}
+} 
