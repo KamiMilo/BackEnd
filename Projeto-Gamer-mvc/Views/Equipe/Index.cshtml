@@ -4,8 +4,21 @@
     ViewData["Title"]= "Equipe";
 }
 
+<!-- Formulario para tela cadastro de equipes -->
+<h1>Tela De Equipes</h1>
+
+<form method="post" action ="@Url.Action("Cadastrar")" enctype="multipart/form-data">
+
+    <label for="Imagem">Nome</label>
+    <input type="text" name="Nome">
+
+    <label for="Imagem">Imagem</label>
+    <input type="file" name="Imagem">
+
+    <button type="submit">Cadastrar</button>
+</form>
+
 <!-- tabela -->
-<h1>Tela de Equipes</h1>
 
 <table class="table table-striped table-responsive" >
     <thead>
@@ -15,6 +28,7 @@
     </thead>
 
     <tbody>
+        <!--lê tudo que está na viewbag (class:EQUIPECONTROLLER)-->
         @foreach (Equipe equipe in ViewBag.Equipe)
         {
         <tr>
