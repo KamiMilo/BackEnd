@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8FEAMYgHAcwj39ojigZA5ZqkC8VqqOHam3E9X5hyHNo=",
+  "Hash": "O8puDm00GPMsx9OY69QPt4jqknbFGsdYdF/l2gsrXCQ=",
   "Source": "Projeto-Gamer-mvc",
   "BasePath": "_content/Projeto-Gamer-mvc",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\img\\Equipes\\card-fifa.png",
+      "SourceId": "Projeto-Gamer-mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\",
+      "BasePath": "_content/Projeto-Gamer-mvc",
+      "RelativePath": "img/Equipes/card-fifa.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Equipes\\card-fifa.png"
+    },
+    {
+      "Identity": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\img\\Equipes\\kiljoy.png",
+      "SourceId": "Projeto-Gamer-mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\",
+      "BasePath": "_content/Projeto-Gamer-mvc",
+      "RelativePath": "img/Equipes/kiljoy.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Equipes\\kiljoy.png"
     },
     {
       "Identity": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\js\\site.js",

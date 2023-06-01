@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\img\\Equipes\\card-fifa.png",
+      "PackagePath": "staticwebassets\\img\\Equipes\\card-fifa.png"
+    },
+    {
+      "Id": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\img\\Equipes\\kiljoy.png",
+      "PackagePath": "staticwebassets\\img\\Equipes\\kiljoy.png"
+    },
+    {
       "Id": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

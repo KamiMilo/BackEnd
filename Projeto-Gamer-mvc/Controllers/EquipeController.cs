@@ -41,7 +41,7 @@ namespace Projeto_Gamer_mvc.Controllers
             //form =formulario do tipo formulario/ [] =informa o campo a ser atribuido o valor /Tostring= converte do tipo formulario para o tipo do dado (nesse caso string)
             novaEquipe.Nome = form["Nome"].ToString();
 
-            //aqui a imagem estva como string.
+            //aqui a imagem estava como string.
             // novaEquipe.Imagem=form["Imagem"].ToString();
 
             //Inicio da Lógica do upload da imagem
@@ -57,18 +57,18 @@ namespace Projeto_Gamer_mvc.Controllers
                 //gera caminho para pasta.
                 var folder = Path.Combine(Directory.GetCurrentDirectory(),"wwwroot/img/Equipes");
 
-                //if para caso não exista a pasta cria-se.
-                if (Directory.Exists(folder))
+                //if para caso não exista a pasta img no wwwroot cria-se.
+                if (!Directory.Exists(folder))
                 {
                     Directory.CreateDirectory(folder);
                 }
 
                 //gera o caminho completo até o caminho do arquivo (imagem- nome com extensão)
-                var pathCaminho = Path.Combine(Directory.GetCurrentDirectory(),"wwwroot/img",folder, file.Name);
+                var pathCaminho = Path.Combine(Directory.GetCurrentDirectory(),"wwwroot/img",folder, file.FileName);
 
                 //using para que a instrução dentro dele seja encerrado assim que for executado.
                 //Stream dá suporte para a leitura do arquivo.
-                using (var stream =new FileStream(pathCaminho,FileMode.Create))
+                using (var stream =new FileStream(pathCaminho, FileMode.Create))
                 {
                     file.CopyTo(stream);
 
@@ -94,6 +94,25 @@ namespace Projeto_Gamer_mvc.Controllers
             //~ = raiz / Equipe/Listar = endereço da rota
             return LocalRedirect ("~/Equipe/Listar");
         }
+
+            //Método excluir que terá como parametro Id da equipe
+
+            [Route("Excluir/{id}")]
+            public  IActionResult Excluir(int id)
+            {
+                Equipe equipeEncontrada = c.Equipe.First(e=> e.IdEquipe==id);
+
+                c.Remove(equipeEncontrada);
+
+                c.SaveChanges();
+
+                return LocalRedirect ("~/Equipe/Listar");
+            }
+
+            [Route("Editar/{id}")]
+
+
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
