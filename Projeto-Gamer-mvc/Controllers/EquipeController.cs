@@ -76,13 +76,13 @@ namespace Projeto_Gamer_mvc.Controllers
 
                 //pega a imagem do file e copia para o stream
                   novaEquipe.Imagem =file.FileName;
+            }
 
                 else
                 {
                     novaEquipe.Imagem="padrao.png";
                 }
 
-            }
 
             //adiciona objeto na tabela Bd
             c.Equipe.Add(novaEquipe);
