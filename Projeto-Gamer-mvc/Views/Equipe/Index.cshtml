@@ -11,6 +11,8 @@
 
     <label for="Imagem">Nome</label>
     <!-- Required: serve para campo obrigatorio** -->
+    <!-- Name: identificador do campo** -->
+
     <input type="text" name="Nome"required>
 
     <label for="Imagem">Imagem</label>
@@ -42,6 +44,9 @@
             </td>
             <td>
                 <a asp-area = ""asp-controller ="Equipe" asp-action= "Excluir" asp-route-id="@equipe.IdEquipe">Excluir</a>
+            </td>
+            <td>
+                <a asp-area="" asp-controller="Equipe" asp-action="Editar" asp-route-id="@equipe.IdEquipe">Editar</a>
             </td>
         </tr>
             

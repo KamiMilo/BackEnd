@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "O8puDm00GPMsx9OY69QPt4jqknbFGsdYdF/l2gsrXCQ=",
+  "Hash": "pT6IkEQnABJVxyqXDhRq5YQGRCNxCHLb9TvTlH8SaI4=",
   "Source": "Projeto-Gamer-mvc",
   "BasePath": "_content/Projeto-Gamer-mvc",
   "Mode": "Default",
@@ -85,6 +85,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\img\\Equipes\\8-590x393.jpg",
+      "SourceId": "Projeto-Gamer-mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\",
+      "BasePath": "_content/Projeto-Gamer-mvc",
+      "RelativePath": "img/Equipes/8-590x393.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Equipes\\8-590x393.jpg"
+    },
+    {
       "Identity": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\img\\Equipes\\card-fifa.png",
       "SourceId": "Projeto-Gamer-mvc",
       "SourceType": "Discovered",
@@ -102,6 +119,23 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\card-fifa.png"
     },
     {
+      "Identity": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\img\\Equipes\\Diagrama_Produtos.png",
+      "SourceId": "Projeto-Gamer-mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\",
+      "BasePath": "_content/Projeto-Gamer-mvc",
+      "RelativePath": "img/Equipes/Diagrama_Produtos.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Equipes\\Diagrama_Produtos.png"
+    },
+    {
       "Identity": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\img\\Equipes\\kiljoy.png",
       "SourceId": "Projeto-Gamer-mvc",
       "SourceType": "Discovered",
@@ -117,6 +151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\kiljoy.png"
+    },
+    {
+      "Identity": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\img\\Equipes\\MacBook Air - 3 (2).jpg",
+      "SourceId": "Projeto-Gamer-mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\",
+      "BasePath": "_content/Projeto-Gamer-mvc",
+      "RelativePath": "img/Equipes/MacBook Air - 3 (2).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Equipes\\MacBook Air - 3 (2).jpg"
     },
     {
       "Identity": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\js\\site.js",

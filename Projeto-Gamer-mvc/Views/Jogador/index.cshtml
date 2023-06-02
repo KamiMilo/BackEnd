@@ -1,0 +1,35 @@
+@model Jogador
+
+@{
+    ViewData["title"]="Equipe";
+}
+
+<h1>Tela de Jogador</h1>
+
+<form method= "post" action="">
+    <label for="IdJogador">IdJogador</label>
+
+    <label for="Nome">Nome</label>
+    <input type="text" name="" id="">
+
+    <label for="">Email</label>
+    <input type="text" name="Email">
+
+    <label for="">Senha</label>
+    <input type="text" name="Senha">
+
+    <label for="">Imagem</label>
+    <input type="file" name="Imagem">
+
+    <button type="submit">Cadrastrar</button>
+
+    
+</form>
+
+<table class="table table-striped-responsive" >
+    <td>id</td>
+    <td>Nome</td>
+    <td>Email</td>
+    <td>Imagem</td>
+    
+</table>

@@ -110,7 +110,67 @@ namespace Projeto_Gamer_mvc.Controllers
             }
 
             [Route("Editar/{id}")]
+            public  IActionResult Editar( int id)
+            {
+                Equipe equipe = c.Equipe.First(x=> x.IdEquipe==id);
 
+                ViewBag.Equipe =equipe;
+
+                return View("Edit");
+            }
+
+            //método que recebe o formulario e guarda dentro do objeto(equipeEditada)
+            [Route("Atualizar")]
+            public  IActionResult Atualizar( IFormCollection form)
+            {
+                //objeto com os dados do formulario antigo
+                Equipe equipe= new Equipe();
+  
+                equipe.IdEquipe = int.Parse(form["IdEquipe"].ToString());
+
+                equipe.Nome= form["Nome"].ToString();
+                
+               
+                if (form.Files.Count > 0)
+            {
+            
+                 var file = form.Files[0];
+                
+                var folder = Path.Combine(Directory.GetCurrentDirectory(),"wwwroot/img/Equipes");
+
+                if (!Directory.Exists(folder))
+                {
+                    Directory.CreateDirectory(folder);
+                }
+
+                var pathCaminho = Path.Combine(folder, file.FileName);
+
+                
+                using (var stream =new FileStream(pathCaminho, FileMode.Create))
+                {
+                    file.CopyTo(stream);
+
+                }
+
+                  equipe.Imagem =file.FileName;
+            }
+
+                 else
+                {
+                    equipe.Imagem="padrao.png";
+                }
+
+                Equipe equipeEncontrada = c.Equipe.First(x=> x.IdEquipe == equipe.IdEquipe);
+
+                equipeEncontrada.Nome= equipe.Nome;
+                equipeEncontrada.Imagem=equipe.Imagem;
+
+                c.Equipe.Update(equipeEncontrada);
+                c.SaveChanges();
+
+                return LocalRedirect("~/Equipe/Listar");
+
+            }
 
 
 
