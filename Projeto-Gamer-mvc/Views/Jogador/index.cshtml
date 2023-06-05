@@ -6,8 +6,7 @@
 
 <h1>Tela de Jogador</h1>
 
-<form method= "post" action="">
-    <label for="IdJogador">IdJogador</label>
+@* <form method= "post" action="">
 
     <label for="Nome">Nome</label>
     <input type="text" name="" id="">
@@ -21,15 +20,36 @@
     <label for="">Imagem</label>
     <input type="file" name="Imagem">
 
-    <button type="submit">Cadrastrar</button>
+    <button type="submit">Cadrastrar</button> *@
 
     
-</form>
+@* </form> *@
 
 <table class="table table-striped-responsive" >
-    <td>id</td>
-    <td>Nome</td>
-    <td>Email</td>
-    <td>Imagem</td>
+    <thead>
+
+    <th>id</th>
+    <th>Nome</th>
+    <th>Email</th>
+    <th>Imagem</th>
+
+    </thead>
+
+     <tbody>
+
+        @foreach (Jogador jogador in ViewBag.Jogador)
+        {
+        <tr>
+            <td>@jogador.IdJogador</td>
+            <td>@jogador.Nome</td>
+            <td>@jogador.Email</td>
+            
+        </tr>
+            
+        }
+    </tbody>
     
 </table>
+
+
+

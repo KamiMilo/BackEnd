@@ -1,10 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 using Projeto_Gamer_mvc.Infra;
 
 namespace Projeto_Gamer_mvc.Controllers
@@ -29,6 +23,8 @@ namespace Projeto_Gamer_mvc.Controllers
             
             ViewBag.Jogador= c.Jogador.ToList();
             ViewBag.Equipe= c.Equipe.ToList();
+
+            return View();
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
