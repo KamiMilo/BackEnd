@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\img\\Equipes\\8-590x393.jpg"
     },
     {
+      "Id": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\img\\Equipes\\Captura de tela 2023-03-28 075519.png",
+      "PackagePath": "staticwebassets\\img\\Equipes\\Captura de tela 2023-03-28 075519.png"
+    },
+    {
       "Id": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\img\\Equipes\\Diagrama_Produtos.png",
       "PackagePath": "staticwebassets\\img\\Equipes\\Diagrama_Produtos.png"
     },
@@ -29,8 +33,20 @@
       "PackagePath": "staticwebassets\\img\\Equipes\\card-fifa.png"
     },
     {
+      "Id": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\img\\Equipes\\download (1).jfif",
+      "PackagePath": "staticwebassets\\img\\Equipes\\download (1).jfif"
+    },
+    {
+      "Id": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\img\\Equipes\\download (2).jfif",
+      "PackagePath": "staticwebassets\\img\\Equipes\\download (2).jfif"
+    },
+    {
       "Id": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\img\\Equipes\\kiljoy.png",
       "PackagePath": "staticwebassets\\img\\Equipes\\kiljoy.png"
+    },
+    {
+      "Id": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\img\\Equipes\\star-wars-the-mandalorian_6gd6.jpg",
+      "PackagePath": "staticwebassets\\img\\Equipes\\star-wars-the-mandalorian_6gd6.jpg"
     },
     {
       "Id": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\js\\site.js",
