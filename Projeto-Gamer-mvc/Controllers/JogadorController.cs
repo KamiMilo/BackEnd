@@ -66,7 +66,7 @@ namespace Projeto_Gamer_mvc.Controllers
                 //objeto com os dados do formulario antigo
                 Jogador novoJogador= new Jogador();
   
-
+                novoJogador.IdJogador = int.Parse(form["IdJogador"].ToString());
                 novoJogador.Nome= form["Nome"].ToString();
                 novoJogador.Email=form["Email"].ToString();
                 novoJogador.Senha=form["Senha"].ToString();
