@@ -21,6 +21,8 @@ namespace Projeto_Gamer_mvc.Controllers
         [Route("Listar")]// http:localhost//Equipe/Listar
         public IActionResult Index()
         {
+
+            ViewBag.UserName =HttpContext.Session.GetString("UserName");
             //Variável que armazena a lista de equipes do banco de dados.
             ViewBag.Equipe= c.Equipe.ToList();
 
@@ -38,7 +40,7 @@ namespace Projeto_Gamer_mvc.Controllers
             Equipe novaEquipe = new Equipe();
 
             //atribui os valores recebidos no formúlario para o objeto
-            //form =formulario do tipo formulario/ [] =informa o campo a ser atribuido o valor /Tostring= converte do tipo formulario para o tipo do dado (nesse caso string)
+            //form =formulario do tipo formulario/ [] =informa o campo a ser atribuido o valor /Tostring= converte do tipo formulario para o tipo do dado (nesse caso string)yy
             novaEquipe.Nome = form["Nome"].ToString();
 
             //aqui a imagem estava como string.
@@ -112,6 +114,7 @@ namespace Projeto_Gamer_mvc.Controllers
             [Route("Editar/{id}")]
             public  IActionResult Editar( int id)
             {
+                ViewBag.UserName =HttpContext.Session.GetString("UserName");
                 Equipe equipe = c.Equipe.First(x=> x.IdEquipe==id);
 
                 ViewBag.Equipe =equipe;

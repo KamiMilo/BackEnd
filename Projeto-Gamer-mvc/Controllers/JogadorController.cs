@@ -20,6 +20,7 @@ namespace Projeto_Gamer_mvc.Controllers
         [Route("Listar")]
         public IActionResult Index()
         {
+            ViewBag.UserName =HttpContext.Session.GetString("UserName");
             //viewbags para armazenar equipe e jogador
             ViewBag.Jogador= c.Jogador.ToList();
             ViewBag.Equipe= c.Equipe.ToList();
@@ -50,6 +51,7 @@ namespace Projeto_Gamer_mvc.Controllers
             [Route("Editar/{id}")]
             public  IActionResult Editar( int id)
             {
+                ViewBag.UserName =HttpContext.Session.GetString("UserName");
                 Jogador jogador = c.Jogador.First(x=> x.IdJogador==id);
 
                 //viewbag que guarda o obj jogador desse método
@@ -77,6 +79,7 @@ namespace Projeto_Gamer_mvc.Controllers
                 jogadorEncontrado.Nome=novoJogador.Nome;
                 jogadorEncontrado.Email=novoJogador.Email;
                 jogadorEncontrado.Senha=novoJogador.Senha;
+                jogadorEncontrado.IdEquipe=novoJogador.IdEquipe;
 
                 c.Jogador.Update(jogadorEncontrado);
                 c.SaveChanges();

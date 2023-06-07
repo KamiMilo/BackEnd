@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VthvN72s9WULHRSRV0MUFxhE+YI92dboKr66jjGkwDQ=",
+  "Hash": "nYLQMyoIyaeZ5+D/R9e9Oug64AT6ccNr7FgU9VONFX8=",
   "Source": "Projeto-Gamer-mvc",
   "BasePath": "_content/Projeto-Gamer-mvc",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\8-590x393.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\img\\Equipes\\anakin-skywalker_star-wars_gallery_63d4722d5f69d.webp",
+      "SourceId": "Projeto-Gamer-mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\",
+      "BasePath": "_content/Projeto-Gamer-mvc",
+      "RelativePath": "img/Equipes/anakin-skywalker_star-wars_gallery_63d4722d5f69d.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Equipes\\anakin-skywalker_star-wars_gallery_63d4722d5f69d.webp"
     },
     {
       "Identity": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\wwwroot\\img\\Equipes\\Captura de tela 2023-03-28 075519.png",
