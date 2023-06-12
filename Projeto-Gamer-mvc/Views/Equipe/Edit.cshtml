@@ -5,6 +5,14 @@
 }
 
 <h1>Edição de Equipes</h1>
+@if (ViewBag.UserName == null)
+{
+    <a asp-area="" asp-controller="Login" asp-action="Index">
+        Login
+    </a>
+}
+else{
+
 
 <!--method: post envia dados com valores /-->
 <form method="post" action="@Url.Action("Atualizar")" enctype="multipart/form-data">
@@ -20,3 +28,4 @@
     <button type="submit">Atualizar</button>
 
 </form>
+}

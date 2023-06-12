@@ -1,10 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 using Projeto_Gamer_mvc.Infra;
 using Projeto_Gamer_mvc.Models;
 
@@ -53,6 +47,14 @@ namespace Projeto_Gamer_mvc.Controllers
               Message= "Dados Inválidos!";
               return LocalRedirect ("~/Login/Login");
             
+        }
+
+        [Route("Logout")]
+        public  IActionResult Logout()
+        {
+            HttpContext.Session.Remove("UserName");
+
+            return LocalRedirect("~/");
         }
 
 
