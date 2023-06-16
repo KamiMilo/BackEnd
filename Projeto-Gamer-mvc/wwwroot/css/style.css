@@ -652,6 +652,7 @@ footer #copyright {
 /* Desktop */
 
 @media screen and (min-width: 992px) {
+
     .container-grid {
         max-width: 992px;
         margin: 0 auto;

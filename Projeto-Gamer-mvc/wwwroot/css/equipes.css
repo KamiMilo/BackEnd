@@ -3,7 +3,7 @@
 /* Main */
 
 main {
-    margin-top: 60px;
+    margin-top: auto;
     height: 1231px;
     background-image: url(../images/background-equipes-mobile.png);
     background-size: contain;

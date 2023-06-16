@@ -34,11 +34,11 @@ namespace Projeto_Gamer_mvc.Infra
             //Password= "senha do seu usúario"
             //pwd="senha do usúario"
 
-                // optionsBuilder.UseSqlServer("Data Source = NOTE01-S15; initial catalog=Projeto-Gamer-mvc GamerProject;user Id=sa; pwd= Senai@134;TrustServerCertificate= true");
+                 optionsBuilder.UseSqlServer("Data Source = NOTE01-S15; initial catalog=Projeto-Gamer-mvc GamerProject;user Id=sa; pwd= Senai@134;TrustServerCertificate= true");
 
                 //  optionsBuilder.UseSqlServer("Data Source = LAPTOP-PNE5VUNU\\SQLEXPRESS; initial catalog=Projeto-Gamer-mvc GamerProject;user Id=sa; pwd=12345;TrustServerCertificate= true");
                  
-                optionsBuilder.UseSqlServer("Data Source = LAPTOP-PNE5VUNU\\SQLEXPRESS; initial catalog=Projeto-Gamer-mvc GamerProject;Integrated Security= true;TrustServerCertificate= true");
+                //optionsBuilder.UseSqlServer("Data Source = LAPTOP-PNE5VUNU\\SQLEXPRESS; initial catalog=Projeto-Gamer-mvc GamerProject;Integrated Security= true;TrustServerCertificate= true");
             }
         }
 

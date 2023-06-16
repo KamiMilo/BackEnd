@@ -10569,24 +10569,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kamil\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\47766876825\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kamil\\OneDrive\\Área de Trabalho\\BackEnd\\Projeto-Gamer-mvc\\Projeto-Gamer-mvc.csproj",
+      "projectUniqueName": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\Projeto-Gamer-mvc.csproj",
       "projectName": "Projeto-Gamer-mvc",
-      "projectPath": "C:\\Users\\kamil\\OneDrive\\Área de Trabalho\\BackEnd\\Projeto-Gamer-mvc\\Projeto-Gamer-mvc.csproj",
-      "packagesPath": "C:\\Users\\kamil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kamil\\OneDrive\\Área de Trabalho\\BackEnd\\Projeto-Gamer-mvc\\obj\\",
+      "projectPath": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\Projeto-Gamer-mvc.csproj",
+      "packagesPath": "C:\\Users\\47766876825\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\47766876825\\Desktop\\BackEnd\\Projeto-Gamer-mvc\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\kamil\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\47766876825\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10650,7 +10645,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

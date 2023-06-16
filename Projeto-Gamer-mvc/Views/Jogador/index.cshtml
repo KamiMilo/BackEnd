@@ -18,7 +18,7 @@
     </a>
 }
 else{
-            <form action="" class="frm-cad-equipe" method= "post" action="@Url.Action("Cadastrar")">
+            <form  class="frm-cad-equipe" method= "post" action="@Url.Action("Cadastrar")">
 
                 <div class="cadequipe-titulo">
                     <h1>Cadastro de Jogadores</h1>
@@ -27,7 +27,11 @@ else{
 
                @* <input class="campo-entrada" type="number" id="id-equipe" placeholder="Digite o Id da sua equipe:">*@
 
-                <input class="campo-entrada" type="text" id="nome-equipe" placeholder="Digite o nome da sua equipe:">
+                
+                <input class="campo-entrada" name="Nome" type="text" id="nome-jogador"  placeholder="Digite o nome do Jogador:">
+                <input class="campo-entrada" name="Email" type="email" id="email-jogador" placeholder="Digite o Email do Jogador:">
+                <input class="campo-entrada" name="Senha" type="password" id="senha" placeholder="Digite a Senha:">
+                
                 
                 <select class="campo-entrada" name="IdEquipe" id="equipe-select">
 
@@ -38,14 +42,8 @@ else{
                 <option value="@equipe.IdEquipe"> @equipe.Nome</option>
             }
             </select>
-                
-                <input class="campo-entrada" type="text" id="nome-jogador" placeholder="Digite o nome do Jogador:">
-                <input class="campo-entrada" type="email" id="email-jogador" placeholder="Digite o Email do Jogador:">
-                <input class="campo-entrada" type="password" id="senha" placeholder="Digite a Senha:">
+   
                 <button>Cadastrar</button>
-                
-                
-                
                 
             </form>
 
@@ -76,11 +74,11 @@ else{
             </td>
 
             <td>
-                <a asp-asp-area="" asp-controller="Jogador" asp-action="Excluir" asp-route-id="@jogador.IdJogador"><img class="yellow-trash" src="~/assets/trash.png" alt=""></a>
-            </td>
-            
-            <td>
-                <a asp-area="" asp-controller="Jogador" asp-action="Editar" asp-route-id="@jogador.IdJogador">Editar</a>
+                 <a asp-area = ""asp-controller ="Jogador" asp-action= "Excluir" asp-route-id="@jogador.IdJogador"> <img class="yellow-trash" src="~/assets/trash.png" alt=""></a> 
+                <p>ㅤ</p>
+                <p>/</p>
+                <p>ㅤ</p>
+                 <a asp-area="" asp-controller="Jogador" asp-action="Editar" asp-route-id="@jogador.IdJogador"><img class="yellow-trash" src="~/assets/Pencil.png" alt=""></a>
             </td>
 
         </tr>
@@ -91,9 +89,6 @@ else{
     }
         </section>
     </main>
-
-
-
 
 
 
